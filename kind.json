@@ -1,0 +1,309 @@
+{
+ "fetchedAt": "2026-09-07T16:12:59.489Z",
+ "range": {
+  "fromDecl": "2026-08-01",
+  "fromTrade": "2026-08-20",
+  "to": "2026-09-08"
+ },
+ "decl": {
+  "skhynix": {
+   "declaredAt": "2026-08-19",
+   "periodStart": "2026-08-20",
+   "periodEnd": "2026-11-19",
+   "plannedShares": 24070000,
+   "acquiredShares": 8450000,
+   "progressPct": 35.11,
+   "acquiredAmountKrw": 14206594441000
+  },
+  "samsung": {
+   "declaredAt": "2026-08-21",
+   "periodStart": "2026-08-24",
+   "periodEnd": "2026-11-21",
+   "plannedShares": 53285968,
+   "acquiredShares": 21800000,
+   "progressPct": 40.91,
+   "acquiredAmountKrw": 5628133469000
+  }
+ },
+ "trades": {
+  "skhynix": [
+   {
+    "date": "2026-08-20",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-21",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-24",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-25",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-26",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-27",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-28",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-31",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-01",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-02",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-03",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-04",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-07",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   }
+  ],
+  "samsung": [
+   {
+    "date": "2026-08-24",
+    "applied": 1800000,
+    "executed": 1800000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-25",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-26",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-27",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-28",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-08-31",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-01",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-02",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-03",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-04",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-07",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   }
+  ]
+ },
+ "apps": {
+  "skhynix": [
+   {
+    "date": "2026-08-20",
+    "applied": 650000,
+    "remaining": 23420000
+   },
+   {
+    "date": "2026-08-21",
+    "applied": 650000,
+    "remaining": 22770000
+   },
+   {
+    "date": "2026-08-24",
+    "applied": 650000,
+    "remaining": 22120000
+   },
+   {
+    "date": "2026-08-25",
+    "applied": 650000,
+    "remaining": 21470000
+   },
+   {
+    "date": "2026-08-26",
+    "applied": 650000,
+    "remaining": 20820000
+   },
+   {
+    "date": "2026-08-27",
+    "applied": 650000,
+    "remaining": 20170000
+   },
+   {
+    "date": "2026-08-28",
+    "applied": 650000,
+    "remaining": 19520000
+   },
+   {
+    "date": "2026-08-31",
+    "applied": 650000,
+    "remaining": 18870000
+   },
+   {
+    "date": "2026-09-01",
+    "applied": 650000,
+    "remaining": 18220000
+   },
+   {
+    "date": "2026-09-02",
+    "applied": 650000,
+    "remaining": 17570000
+   },
+   {
+    "date": "2026-09-03",
+    "applied": 650000,
+    "remaining": 16920000
+   },
+   {
+    "date": "2026-09-04",
+    "applied": 650000,
+    "remaining": 16270000
+   },
+   {
+    "date": "2026-09-07",
+    "applied": 650000,
+    "remaining": 15620000
+   }
+  ],
+  "samsung": [
+   {
+    "date": "2026-08-21",
+    "applied": 1800000,
+    "remaining": 53285968
+   },
+   {
+    "date": "2026-08-24",
+    "applied": 2000000,
+    "remaining": 51485968
+   },
+   {
+    "date": "2026-08-25",
+    "applied": 2000000,
+    "remaining": 49485968
+   },
+   {
+    "date": "2026-08-26",
+    "applied": 2000000,
+    "remaining": 47485968
+   },
+   {
+    "date": "2026-08-27",
+    "applied": 2000000,
+    "remaining": 45485968
+   },
+   {
+    "date": "2026-08-28",
+    "applied": 2000000,
+    "remaining": 43485968
+   },
+   {
+    "date": "2026-08-31",
+    "applied": 2000000,
+    "remaining": 41485968
+   },
+   {
+    "date": "2026-09-01",
+    "applied": 2000000,
+    "remaining": 39485968
+   },
+   {
+    "date": "2026-09-02",
+    "applied": 2000000,
+    "remaining": 37485968
+   },
+   {
+    "date": "2026-09-03",
+    "applied": 2000000,
+    "remaining": 35485968
+   },
+   {
+    "date": "2026-09-04",
+    "applied": 2000000,
+    "remaining": 33485968
+   },
+   {
+    "date": "2026-09-07",
+    "applied": 2000000,
+    "remaining": 31485968
+   }
+  ]
+ }
+}
