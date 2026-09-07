@@ -1,0 +1,1663 @@
+{
+ "generatedAt": "2026-09-07T16:15:46.263Z",
+ "asOf": "2026-09-07",
+ "today": "2026-09-08",
+ "kindFetchedAt": "2026-09-07T16:15:44.729Z",
+ "kindSource": "file",
+ "kindLiveError": null,
+ "companies": {
+  "skhynix": {
+   "key": "skhynix",
+   "name": "SK하이닉스",
+   "code": "000660",
+   "purpose": "자사주 취득 후 전량 소각",
+   "disclosure": "2026-08-19 주요사항보고서(자기주식취득결정)",
+   "planShares": 24070000,
+   "planAmountKrw": 40004340000000,
+   "start": "2026-08-20",
+   "end": "2026-11-19",
+   "asOf": "2026-09-07",
+   "acquiredShares": 8450000,
+   "acquiredAmountKrw": 14206594441000,
+   "progressPct": 35.11,
+   "progressAmountPct": 35.51,
+   "remainingShares": 15620000,
+   "remainingAmountKrw": 25797745559000,
+   "avgPricePaid": 1681254,
+   "lastClose": 1783000,
+   "foreignHoldPct": 50.61,
+   "daily": [
+    {
+     "date": "2026-08-20",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1691000,
+     "estAmountKrw": 1099150000000,
+     "remainingAfter": 23420000,
+     "foreign": 312973,
+     "institution": -13214,
+     "individual": -922172
+    },
+    {
+     "date": "2026-08-21",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1730000,
+     "estAmountKrw": 1124500000000,
+     "remainingAfter": 22770000,
+     "foreign": 6014,
+     "institution": 66258,
+     "individual": -720118
+    },
+    {
+     "date": "2026-08-24",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1671000,
+     "estAmountKrw": 1086150000000,
+     "remainingAfter": 22120000,
+     "foreign": -913265,
+     "institution": -173328,
+     "individual": 440367
+    },
+    {
+     "date": "2026-08-25",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1678000,
+     "estAmountKrw": 1090700000000,
+     "remainingAfter": 21470000,
+     "foreign": -1234309,
+     "institution": 197025,
+     "individual": 386856
+    },
+    {
+     "date": "2026-08-26",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1688000,
+     "estAmountKrw": 1097200000000,
+     "remainingAfter": 20820000,
+     "foreign": -227762,
+     "institution": 2290,
+     "individual": -412517
+    },
+    {
+     "date": "2026-08-27",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1730000,
+     "estAmountKrw": 1124500000000,
+     "remainingAfter": 20170000,
+     "foreign": -159385,
+     "institution": -140329,
+     "individual": -335812
+    },
+    {
+     "date": "2026-08-28",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1653000,
+     "estAmountKrw": 1074450000000,
+     "remainingAfter": 19520000,
+     "foreign": -190235,
+     "institution": -796000,
+     "individual": 339503
+    },
+    {
+     "date": "2026-08-31",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1674000,
+     "estAmountKrw": 1088100000000,
+     "remainingAfter": 18870000,
+     "foreign": -211935,
+     "institution": -314294,
+     "individual": -112542
+    },
+    {
+     "date": "2026-09-01",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1693000,
+     "estAmountKrw": 1100450000000,
+     "remainingAfter": 18220000,
+     "foreign": 91835,
+     "institution": -142669,
+     "individual": -590498
+    },
+    {
+     "date": "2026-09-02",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1613000,
+     "estAmountKrw": 1048450000000,
+     "remainingAfter": 17570000,
+     "foreign": -651507,
+     "institution": -295219,
+     "individual": 296807
+    },
+    {
+     "date": "2026-09-03",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1596000,
+     "estAmountKrw": 1037400000000,
+     "remainingAfter": 16920000,
+     "foreign": -234626,
+     "institution": -187288,
+     "individual": -220315
+    },
+    {
+     "date": "2026-09-04",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1647000,
+     "estAmountKrw": 1070550000000,
+     "remainingAfter": 16270000,
+     "foreign": 308833,
+     "institution": 96776,
+     "individual": -1037636
+    },
+    {
+     "date": "2026-09-07",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1783000,
+     "estAmountKrw": 1158950000000,
+     "remainingAfter": 15620000,
+     "foreign": 772036,
+     "institution": 365719,
+     "individual": -1771800
+    }
+   ],
+   "pace": {
+    "lastDayShares": 650000,
+    "avg5Shares": 650000,
+    "avgAllShares": 650000,
+    "tradingDaysDone": 13,
+    "lastDayEstKrw": 1158950000000,
+    "avg5EstKrw": 1158950000000,
+    "requiredSharesPerDay": 318775.51020408166,
+    "speedRatio": 2.0390524967989756,
+    "promisedSharesPerDay": 388225.8064516129,
+    "speedVsPromised": 1.674283340257582
+   },
+   "projection": {
+    "officialEnd": "2026-11-19",
+    "tradingDaysToOfficialEnd": 49,
+    "totalPlanTradingDays": 62,
+    "bySharesAtLastPace": {
+     "tradingDays": 25,
+     "date": "2026-10-16"
+    },
+    "bySharesAtAvg5": {
+     "tradingDays": 25,
+     "date": "2026-10-16"
+    },
+    "byAmountAtLastPace": {
+     "tradingDays": 23,
+     "date": "2026-10-14"
+    }
+   },
+   "nextApplication": null
+  },
+  "samsung": {
+   "key": "samsung",
+   "name": "삼성전자",
+   "code": "005930",
+   "purpose": "임직원 주식보상(성과급) 재원",
+   "disclosure": "2026-08-21 주요사항보고서(자기주식취득결정)",
+   "planShares": 53285968,
+   "planAmountKrw": 15000000000000,
+   "start": "2026-08-24",
+   "end": "2026-11-21",
+   "asOf": "2026-09-07",
+   "acquiredShares": 21800000,
+   "acquiredAmountKrw": 5628133469000,
+   "progressPct": 40.91,
+   "progressAmountPct": 37.52,
+   "remainingShares": 31485968,
+   "remainingAmountKrw": 9371866531000,
+   "avgPricePaid": 258171,
+   "lastClose": 270000,
+   "foreignHoldPct": 46.78,
+   "daily": [
+    {
+     "date": "2026-08-24",
+     "applied": 1800000,
+     "executed": 1800000,
+     "fillPct": 100,
+     "close": 257000,
+     "estAmountKrw": 462600000000,
+     "remainingAfter": 51485968,
+     "foreign": -6882379,
+     "institution": -6269240,
+     "individual": 11125505
+    },
+    {
+     "date": "2026-08-25",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 257000,
+     "estAmountKrw": 514000000000,
+     "remainingAfter": 49485968,
+     "foreign": -5003317,
+     "institution": 203484,
+     "individual": 2784825
+    },
+    {
+     "date": "2026-08-26",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 261500,
+     "estAmountKrw": 523000000000,
+     "remainingAfter": 47485968,
+     "foreign": 2518326,
+     "institution": 503532,
+     "individual": -4862846
+    },
+    {
+     "date": "2026-08-27",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 266000,
+     "estAmountKrw": 532000000000,
+     "remainingAfter": 45485968,
+     "foreign": 1381786,
+     "institution": -97433,
+     "individual": -3223427
+    },
+    {
+     "date": "2026-08-28",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 257000,
+     "estAmountKrw": 514000000000,
+     "remainingAfter": 43485968,
+     "foreign": -1927155,
+     "institution": -1652437,
+     "individual": 1589169
+    },
+    {
+     "date": "2026-08-31",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 260000,
+     "estAmountKrw": 520000000000,
+     "remainingAfter": 41485968,
+     "foreign": -2293,
+     "institution": -2349842,
+     "individual": 333167
+    },
+    {
+     "date": "2026-09-01",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 261000,
+     "estAmountKrw": 522000000000,
+     "remainingAfter": 39485968,
+     "foreign": -707536,
+     "institution": -339843,
+     "individual": -935990
+    },
+    {
+     "date": "2026-09-02",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 250500,
+     "estAmountKrw": 501000000000,
+     "remainingAfter": 37485968,
+     "foreign": -1321536,
+     "institution": -2977902,
+     "individual": 2332837
+    },
+    {
+     "date": "2026-09-03",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 250000,
+     "estAmountKrw": 500000000000,
+     "remainingAfter": 35485968,
+     "foreign": 91825,
+     "institution": -839601,
+     "individual": -1234260
+    },
+    {
+     "date": "2026-09-04",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 255500,
+     "estAmountKrw": 511000000000,
+     "remainingAfter": 33485968,
+     "foreign": -115377,
+     "institution": 2489812,
+     "individual": -4343948
+    },
+    {
+     "date": "2026-09-07",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 270000,
+     "estAmountKrw": 540000000000,
+     "remainingAfter": 31485968,
+     "foreign": 3246247,
+     "institution": 4568427,
+     "individual": -9648846
+    }
+   ],
+   "pace": {
+    "lastDayShares": 2000000,
+    "avg5Shares": 2000000,
+    "avgAllShares": 1981818.1818181819,
+    "tradingDaysDone": 11,
+    "lastDayEstKrw": 540000000000,
+    "avg5EstKrw": 540000000000,
+    "requiredSharesPerDay": 629719.36,
+    "speedRatio": 3.1760179645739335,
+    "promisedSharesPerDay": 873540.4590163934,
+    "speedVsPromised": 2.289533334554418
+   },
+   "projection": {
+    "officialEnd": "2026-11-21",
+    "tradingDaysToOfficialEnd": 50,
+    "totalPlanTradingDays": 61,
+    "bySharesAtLastPace": {
+     "tradingDays": 16,
+     "date": "2026-10-01"
+    },
+    "bySharesAtAvg5": {
+     "tradingDays": 16,
+     "date": "2026-10-01"
+    },
+    "byAmountAtLastPace": {
+     "tradingDays": 18,
+     "date": "2026-10-06"
+    }
+   },
+   "nextApplication": null
+  }
+ },
+ "market": {
+  "investors": [
+   {
+    "date": "2026-08-03",
+    "individual": 46523,
+    "foreign": -28220,
+    "institution": -19516,
+    "finInvest": -15601,
+    "insurance": 588,
+    "trust": -4713,
+    "bank": 94,
+    "otherFin": 320,
+    "pension": -204,
+    "otherCorp": 1213
+   },
+   {
+    "date": "2026-08-04",
+    "individual": 8187,
+    "foreign": -3716,
+    "institution": -5385,
+    "finInvest": -1584,
+    "insurance": 574,
+    "trust": -4948,
+    "bank": -120,
+    "otherFin": 227,
+    "pension": 466,
+    "otherCorp": 914
+   },
+   {
+    "date": "2026-08-05",
+    "individual": -11844,
+    "foreign": 14464,
+    "institution": -2838,
+    "finInvest": 1357,
+    "insurance": -105,
+    "trust": -4093,
+    "bank": 20,
+    "otherFin": 252,
+    "pension": -268,
+    "otherCorp": 218
+   },
+   {
+    "date": "2026-08-06",
+    "individual": 33367,
+    "foreign": -32893,
+    "institution": -1214,
+    "finInvest": 6787,
+    "insurance": 480,
+    "trust": -9049,
+    "bank": -78,
+    "otherFin": 175,
+    "pension": 471,
+    "otherCorp": 740
+   },
+   {
+    "date": "2026-08-07",
+    "individual": 2675,
+    "foreign": -8651,
+    "institution": 5854,
+    "finInvest": 6401,
+    "insurance": 526,
+    "trust": -25,
+    "bank": -36,
+    "otherFin": 153,
+    "pension": -1166,
+    "otherCorp": 122
+   },
+   {
+    "date": "2026-08-10",
+    "individual": 9003,
+    "foreign": -14909,
+    "institution": 5692,
+    "finInvest": 6197,
+    "insurance": 692,
+    "trust": 124,
+    "bank": -26,
+    "otherFin": 154,
+    "pension": -1449,
+    "otherCorp": 215
+   },
+   {
+    "date": "2026-08-11",
+    "individual": -708,
+    "foreign": 535,
+    "institution": 212,
+    "finInvest": -2089,
+    "insurance": -65,
+    "trust": 2717,
+    "bank": -76,
+    "otherFin": 151,
+    "pension": -426,
+    "otherCorp": -40
+   },
+   {
+    "date": "2026-08-12",
+    "individual": -31911,
+    "foreign": 28354,
+    "institution": 5279,
+    "finInvest": 2535,
+    "insurance": 215,
+    "trust": 2642,
+    "bank": -25,
+    "otherFin": 193,
+    "pension": -281,
+    "otherCorp": -1722
+   },
+   {
+    "date": "2026-08-13",
+    "individual": -27410,
+    "foreign": 21102,
+    "institution": 6834,
+    "finInvest": 20,
+    "insurance": -76,
+    "trust": 7385,
+    "bank": -21,
+    "otherFin": 166,
+    "pension": -641,
+    "otherCorp": -526
+   },
+   {
+    "date": "2026-08-14",
+    "individual": -19820,
+    "foreign": 30387,
+    "institution": -10298,
+    "finInvest": -11634,
+    "insurance": -142,
+    "trust": 1011,
+    "bank": -115,
+    "otherFin": 192,
+    "pension": 391,
+    "otherCorp": -269
+   },
+   {
+    "date": "2026-08-18",
+    "individual": 7420,
+    "foreign": 914,
+    "institution": -7951,
+    "finInvest": -5473,
+    "insurance": -385,
+    "trust": -1218,
+    "bank": -99,
+    "otherFin": 29,
+    "pension": -806,
+    "otherCorp": -383
+   },
+   {
+    "date": "2026-08-19",
+    "individual": 46357,
+    "foreign": -34726,
+    "institution": -13390,
+    "finInvest": -9753,
+    "insurance": 667,
+    "trust": -5105,
+    "bank": -116,
+    "otherFin": 187,
+    "pension": 731,
+    "otherCorp": 1759
+   },
+   {
+    "date": "2026-08-20",
+    "individual": -22712,
+    "foreign": 17068,
+    "institution": -4895,
+    "finInvest": -12879,
+    "insurance": -160,
+    "trust": 9702,
+    "bank": 35,
+    "otherFin": 223,
+    "pension": -1816,
+    "otherCorp": 10539
+   },
+   {
+    "date": "2026-08-21",
+    "individual": -11652,
+    "foreign": -1760,
+    "institution": 2481,
+    "finInvest": 1119,
+    "insurance": -109,
+    "trust": 840,
+    "bank": -54,
+    "otherFin": 221,
+    "pension": 464,
+    "otherCorp": 10931
+   },
+   {
+    "date": "2026-08-24",
+    "individual": 33217,
+    "foreign": -36691,
+    "institution": -12901,
+    "finInvest": -4039,
+    "insurance": -184,
+    "trust": -8894,
+    "bank": 3,
+    "otherFin": 169,
+    "pension": 44,
+    "otherCorp": 16375
+   },
+   {
+    "date": "2026-08-25",
+    "individual": 10509,
+    "foreign": -38140,
+    "institution": 11711,
+    "finInvest": 10709,
+    "insurance": 57,
+    "trust": 625,
+    "bank": -147,
+    "otherFin": 232,
+    "pension": 234,
+    "otherCorp": 15920
+   },
+   {
+    "date": "2026-08-26",
+    "individual": -22461,
+    "foreign": -1148,
+    "institution": 7615,
+    "finInvest": 6857,
+    "insurance": 75,
+    "trust": 849,
+    "bank": 1,
+    "otherFin": 173,
+    "pension": -339,
+    "otherCorp": 15994
+   },
+   {
+    "date": "2026-08-27",
+    "individual": -19116,
+    "foreign": 1333,
+    "institution": 1835,
+    "finInvest": 4933,
+    "insurance": 181,
+    "trust": -2063,
+    "bank": 24,
+    "otherFin": 189,
+    "pension": -1429,
+    "otherCorp": 15948
+   },
+   {
+    "date": "2026-08-28",
+    "individual": 4194,
+    "foreign": -8525,
+    "institution": -11876,
+    "finInvest": -2874,
+    "insurance": 244,
+    "trust": -9224,
+    "bank": 5,
+    "otherFin": 202,
+    "pension": -229,
+    "otherCorp": 16206
+   },
+   {
+    "date": "2026-08-31",
+    "individual": -1464,
+    "foreign": -6434,
+    "institution": -7891,
+    "finInvest": -2435,
+    "insurance": 167,
+    "trust": -5495,
+    "bank": 12,
+    "otherFin": 217,
+    "pension": -357,
+    "otherCorp": 15790
+   },
+   {
+    "date": "2026-09-01",
+    "individual": -5402,
+    "foreign": -4968,
+    "institution": -6286,
+    "finInvest": -6344,
+    "insurance": -231,
+    "trust": 238,
+    "bank": 24,
+    "otherFin": 174,
+    "pension": -147,
+    "otherCorp": 16656
+   },
+   {
+    "date": "2026-09-02",
+    "individual": 23029,
+    "foreign": -19173,
+    "institution": -20361,
+    "finInvest": -14238,
+    "insurance": 133,
+    "trust": -5161,
+    "bank": -12,
+    "otherFin": 153,
+    "pension": -1236,
+    "otherCorp": 16505
+   },
+   {
+    "date": "2026-09-03",
+    "individual": -9552,
+    "foreign": 414,
+    "institution": 9143,
+    "finInvest": 10281,
+    "insurance": 202,
+    "trust": -1077,
+    "bank": 18,
+    "otherFin": 163,
+    "pension": -444,
+    "otherCorp": -6
+   },
+   {
+    "date": "2026-09-04",
+    "individual": -37229,
+    "foreign": 4796,
+    "institution": 16694,
+    "finInvest": 11870,
+    "insurance": 359,
+    "trust": 3370,
+    "bank": 27,
+    "otherFin": 220,
+    "pension": 846,
+    "otherCorp": 15739
+   },
+   {
+    "date": "2026-09-07",
+    "individual": -68374,
+    "foreign": 25532,
+    "institution": 26491,
+    "finInvest": 22185,
+    "insurance": 156,
+    "trust": 3860,
+    "bank": 60,
+    "otherFin": 133,
+    "pension": 96,
+    "otherCorp": 16352
+   }
+  ],
+  "kospi": [
+   {
+    "date": "2026-06-12",
+    "close": 8123.62,
+    "change": 359.67,
+    "changePct": 4.63
+   },
+   {
+    "date": "2026-06-15",
+    "close": 8545.98,
+    "change": 422.36,
+    "changePct": 5.2
+   },
+   {
+    "date": "2026-06-16",
+    "close": 8726.6,
+    "change": 180.62,
+    "changePct": 2.11
+   },
+   {
+    "date": "2026-06-17",
+    "close": 8864.24,
+    "change": 137.64,
+    "changePct": 1.58
+   },
+   {
+    "date": "2026-06-18",
+    "close": 9063.84,
+    "change": 199.6,
+    "changePct": 2.25
+   },
+   {
+    "date": "2026-06-19",
+    "close": 9052.42,
+    "change": -11.42,
+    "changePct": -0.13
+   },
+   {
+    "date": "2026-06-22",
+    "close": 9114.55,
+    "change": 62.13,
+    "changePct": 0.69
+   },
+   {
+    "date": "2026-06-23",
+    "close": 8203.84,
+    "change": -910.71,
+    "changePct": -9.99
+   },
+   {
+    "date": "2026-06-24",
+    "close": 8471.02,
+    "change": 267.18,
+    "changePct": 3.26
+   },
+   {
+    "date": "2026-06-25",
+    "close": 8930.3,
+    "change": 459.28,
+    "changePct": 5.42
+   },
+   {
+    "date": "2026-06-26",
+    "close": 8411.21,
+    "change": -519.09,
+    "changePct": -5.81
+   },
+   {
+    "date": "2026-06-29",
+    "close": 8394.65,
+    "change": -16.56,
+    "changePct": -0.2
+   },
+   {
+    "date": "2026-06-30",
+    "close": 8476.48,
+    "change": 81.83,
+    "changePct": 0.97
+   },
+   {
+    "date": "2026-07-01",
+    "close": 8303.41,
+    "change": -173.07,
+    "changePct": -2.04
+   },
+   {
+    "date": "2026-07-02",
+    "close": 7648.09,
+    "change": -655.32,
+    "changePct": -7.89
+   },
+   {
+    "date": "2026-07-03",
+    "close": 8088.34,
+    "change": 440.25,
+    "changePct": 5.76
+   },
+   {
+    "date": "2026-07-06",
+    "close": 8051.33,
+    "change": -37.01,
+    "changePct": -0.46
+   },
+   {
+    "date": "2026-07-07",
+    "close": 7656.31,
+    "change": -395.02,
+    "changePct": -4.91
+   },
+   {
+    "date": "2026-07-08",
+    "close": 7246.79,
+    "change": -409.52,
+    "changePct": -5.35
+   },
+   {
+    "date": "2026-07-09",
+    "close": 7291.91,
+    "change": 45.12,
+    "changePct": 0.62
+   },
+   {
+    "date": "2026-07-10",
+    "close": 7475.94,
+    "change": 184.03,
+    "changePct": 2.52
+   },
+   {
+    "date": "2026-07-13",
+    "close": 6806.93,
+    "change": -669.01,
+    "changePct": -8.95
+   },
+   {
+    "date": "2026-07-14",
+    "close": 6856.83,
+    "change": 49.9,
+    "changePct": 0.73
+   },
+   {
+    "date": "2026-07-15",
+    "close": 7284.41,
+    "change": 427.58,
+    "changePct": 6.24
+   },
+   {
+    "date": "2026-07-16",
+    "close": 6820.6,
+    "change": -463.81,
+    "changePct": -6.37
+   },
+   {
+    "date": "2026-07-20",
+    "close": 6516.27,
+    "change": -304.33,
+    "changePct": -4.46
+   },
+   {
+    "date": "2026-07-21",
+    "close": 6747.95,
+    "change": 231.68,
+    "changePct": 3.56
+   },
+   {
+    "date": "2026-07-22",
+    "close": 6797.7,
+    "change": 49.75,
+    "changePct": 0.74
+   },
+   {
+    "date": "2026-07-23",
+    "close": 7096.89,
+    "change": 299.19,
+    "changePct": 4.4
+   },
+   {
+    "date": "2026-07-24",
+    "close": 6690.62,
+    "change": -406.27,
+    "changePct": -5.72
+   },
+   {
+    "date": "2026-07-27",
+    "close": 6755.75,
+    "change": 65.13,
+    "changePct": 0.97
+   },
+   {
+    "date": "2026-07-28",
+    "close": 6023.66,
+    "change": -732.09,
+    "changePct": -10.84
+   },
+   {
+    "date": "2026-07-29",
+    "close": 5663.24,
+    "change": -360.42,
+    "changePct": -5.98
+   },
+   {
+    "date": "2026-07-30",
+    "close": 5593.56,
+    "change": -69.68,
+    "changePct": -1.23
+   },
+   {
+    "date": "2026-07-31",
+    "close": 6595.45,
+    "change": 1001.89,
+    "changePct": 17.91
+   },
+   {
+    "date": "2026-08-03",
+    "close": 6257.45,
+    "change": -338,
+    "changePct": -5.12
+   },
+   {
+    "date": "2026-08-04",
+    "close": 6358.95,
+    "change": 101.5,
+    "changePct": 1.62
+   },
+   {
+    "date": "2026-08-05",
+    "close": 6598.26,
+    "change": 239.31,
+    "changePct": 3.76
+   },
+   {
+    "date": "2026-08-06",
+    "close": 6296.38,
+    "change": -301.88,
+    "changePct": -4.58
+   },
+   {
+    "date": "2026-08-07",
+    "close": 6258.77,
+    "change": -37.61,
+    "changePct": -0.6
+   },
+   {
+    "date": "2026-08-10",
+    "close": 6299.66,
+    "change": 40.89,
+    "changePct": 0.65
+   },
+   {
+    "date": "2026-08-11",
+    "close": 6345.53,
+    "change": 45.87,
+    "changePct": 0.73
+   },
+   {
+    "date": "2026-08-12",
+    "close": 6579.04,
+    "change": 233.51,
+    "changePct": 3.68
+   },
+   {
+    "date": "2026-08-13",
+    "close": 6813.34,
+    "change": 234.3,
+    "changePct": 3.56
+   },
+   {
+    "date": "2026-08-14",
+    "close": 6977.94,
+    "change": 164.6,
+    "changePct": 2.42
+   },
+   {
+    "date": "2026-08-18",
+    "close": 6869.83,
+    "change": -108.11,
+    "changePct": -1.55
+   },
+   {
+    "date": "2026-08-19",
+    "close": 6471.17,
+    "change": -398.66,
+    "changePct": -5.8
+   },
+   {
+    "date": "2026-08-20",
+    "close": 6852.58,
+    "change": 381.41,
+    "changePct": 5.89
+   },
+   {
+    "date": "2026-08-21",
+    "close": 6912.95,
+    "change": 60.37,
+    "changePct": 0.88
+   },
+   {
+    "date": "2026-08-24",
+    "close": 6696.96,
+    "change": -215.99,
+    "changePct": -3.12
+   },
+   {
+    "date": "2026-08-25",
+    "close": 6742.74,
+    "change": 45.78,
+    "changePct": 0.68
+   },
+   {
+    "date": "2026-08-26",
+    "close": 6808.21,
+    "change": 65.47,
+    "changePct": 0.97
+   },
+   {
+    "date": "2026-08-27",
+    "close": 6912.37,
+    "change": 104.16,
+    "changePct": 1.53
+   },
+   {
+    "date": "2026-08-28",
+    "close": 6788.88,
+    "change": -123.49,
+    "changePct": -1.79
+   },
+   {
+    "date": "2026-08-31",
+    "close": 6820.02,
+    "change": 31.14,
+    "changePct": 0.46
+   },
+   {
+    "date": "2026-09-01",
+    "close": 6835.8,
+    "change": 15.78,
+    "changePct": 0.23
+   },
+   {
+    "date": "2026-09-02",
+    "close": 6562.72,
+    "change": -273.08,
+    "changePct": -3.99
+   },
+   {
+    "date": "2026-09-03",
+    "close": 6579.48,
+    "change": 16.76,
+    "changePct": 0.26
+   },
+   {
+    "date": "2026-09-04",
+    "close": 6687.21,
+    "change": 107.73,
+    "changePct": 1.64
+   },
+   {
+    "date": "2026-09-07",
+    "close": 6995.39,
+    "change": 308.18,
+    "changePct": 4.61
+   }
+  ],
+  "fx": {
+   "source": "다음금융 매매기준율",
+   "rows": [
+    {
+     "date": "2026-06-12",
+     "rate": 1514.7,
+     "change": -4.3
+    },
+    {
+     "date": "2026-06-15",
+     "rate": 1515.5,
+     "change": 0.8
+    },
+    {
+     "date": "2026-06-16",
+     "rate": 1511,
+     "change": -4.5
+    },
+    {
+     "date": "2026-06-17",
+     "rate": 1525.5,
+     "change": 14.5
+    },
+    {
+     "date": "2026-06-18",
+     "rate": 1538,
+     "change": 12.5
+    },
+    {
+     "date": "2026-06-19",
+     "rate": 1533,
+     "change": -5
+    },
+    {
+     "date": "2026-06-22",
+     "rate": 1538.5,
+     "change": 5.5
+    },
+    {
+     "date": "2026-06-23",
+     "rate": 1533.5,
+     "change": -5
+    },
+    {
+     "date": "2026-06-24",
+     "rate": 1543.5,
+     "change": 10
+    },
+    {
+     "date": "2026-06-25",
+     "rate": 1545,
+     "change": 1.5
+    },
+    {
+     "date": "2026-06-26",
+     "rate": 1537.5,
+     "change": -7.5
+    },
+    {
+     "date": "2026-06-29",
+     "rate": 1541.5,
+     "change": 4
+    },
+    {
+     "date": "2026-06-30",
+     "rate": 1548,
+     "change": 6.5
+    },
+    {
+     "date": "2026-07-01",
+     "rate": 1552.5,
+     "change": 4.5
+    },
+    {
+     "date": "2026-07-02",
+     "rate": 1542.5,
+     "change": -10
+    },
+    {
+     "date": "2026-07-03",
+     "rate": 1529,
+     "change": -13.5
+    },
+    {
+     "date": "2026-07-06",
+     "rate": 1530.5,
+     "change": 1.5
+    },
+    {
+     "date": "2026-07-07",
+     "rate": 1517.2,
+     "change": -13.3
+    },
+    {
+     "date": "2026-07-08",
+     "rate": 1506.5,
+     "change": -10.7
+    },
+    {
+     "date": "2026-07-09",
+     "rate": 1507,
+     "change": 0.5
+    },
+    {
+     "date": "2026-07-10",
+     "rate": 1502,
+     "change": -5
+    },
+    {
+     "date": "2026-07-13",
+     "rate": 1499.5,
+     "change": -2.5
+    },
+    {
+     "date": "2026-07-14",
+     "rate": 1486.5,
+     "change": -13
+    },
+    {
+     "date": "2026-07-15",
+     "rate": 1488,
+     "change": 1.5
+    },
+    {
+     "date": "2026-07-16",
+     "rate": 1491,
+     "change": 3
+    },
+    {
+     "date": "2026-07-20",
+     "rate": 1478.5,
+     "change": -12.5
+    },
+    {
+     "date": "2026-07-21",
+     "rate": 1482.5,
+     "change": 4
+    },
+    {
+     "date": "2026-07-22",
+     "rate": 1479,
+     "change": -3.5
+    },
+    {
+     "date": "2026-07-23",
+     "rate": 1476.5,
+     "change": -2.5
+    },
+    {
+     "date": "2026-07-24",
+     "rate": 1462.5,
+     "change": -14
+    },
+    {
+     "date": "2026-07-27",
+     "rate": 1466,
+     "change": 3.5
+    },
+    {
+     "date": "2026-07-28",
+     "rate": 1455.2,
+     "change": -10.8
+    },
+    {
+     "date": "2026-07-29",
+     "rate": 1446,
+     "change": -9.2
+    },
+    {
+     "date": "2026-07-30",
+     "rate": 1426.2,
+     "change": -19.8
+    },
+    {
+     "date": "2026-07-31",
+     "rate": 1440,
+     "change": 13.8
+    },
+    {
+     "date": "2026-08-03",
+     "rate": 1430.8,
+     "change": -9.2
+    },
+    {
+     "date": "2026-08-04",
+     "rate": 1431,
+     "change": 0.2
+    },
+    {
+     "date": "2026-08-05",
+     "rate": 1423.5,
+     "change": -7.5
+    },
+    {
+     "date": "2026-08-06",
+     "rate": 1424.5,
+     "change": 1
+    },
+    {
+     "date": "2026-08-07",
+     "rate": 1411,
+     "change": -13.5
+    },
+    {
+     "date": "2026-08-10",
+     "rate": 1419.5,
+     "change": 8.5
+    },
+    {
+     "date": "2026-08-11",
+     "rate": 1413.5,
+     "change": -6
+    },
+    {
+     "date": "2026-08-12",
+     "rate": 1419,
+     "change": 5.5
+    },
+    {
+     "date": "2026-08-13",
+     "rate": 1420.2,
+     "change": 1.2
+    },
+    {
+     "date": "2026-08-14",
+     "rate": 1417.5,
+     "change": -2.7
+    },
+    {
+     "date": "2026-08-18",
+     "rate": 1413.5,
+     "change": -4
+    },
+    {
+     "date": "2026-08-19",
+     "rate": 1390,
+     "change": -23.5
+    },
+    {
+     "date": "2026-08-20",
+     "rate": 1394.8,
+     "change": 4.8
+    },
+    {
+     "date": "2026-08-21",
+     "rate": 1387,
+     "change": -7.8
+    },
+    {
+     "date": "2026-08-24",
+     "rate": 1383,
+     "change": -4
+    },
+    {
+     "date": "2026-08-25",
+     "rate": 1383.5,
+     "change": 0.5
+    },
+    {
+     "date": "2026-08-26",
+     "rate": 1386,
+     "change": 2.5
+    },
+    {
+     "date": "2026-08-27",
+     "rate": 1382,
+     "change": -4
+    },
+    {
+     "date": "2026-08-28",
+     "rate": 1380.5,
+     "change": -1.5
+    },
+    {
+     "date": "2026-08-31",
+     "rate": 1369.5,
+     "change": -11
+    },
+    {
+     "date": "2026-09-01",
+     "rate": 1375.5,
+     "change": 6
+    },
+    {
+     "date": "2026-09-02",
+     "rate": 1360.3,
+     "change": -15.2
+    },
+    {
+     "date": "2026-09-03",
+     "rate": 1358,
+     "change": -2.3
+    },
+    {
+     "date": "2026-09-04",
+     "rate": 1349.5,
+     "change": -8.5
+    },
+    {
+     "date": "2026-09-07",
+     "rate": 1345.8,
+     "change": -3.7
+    }
+   ]
+  }
+ },
+ "combinedDaily": [
+  {
+   "date": "2026-08-20",
+   "otherCorpKrw": 1053900000000,
+   "buybackEstKrw": 1099150000000,
+   "foreignKrw": 1706800000000,
+   "institutionKrw": -489500000000,
+   "individualKrw": -2271200000000,
+   "kospi": 6852.58,
+   "kospiPct": 5.89,
+   "usdKrw": 1394.8
+  },
+  {
+   "date": "2026-08-21",
+   "otherCorpKrw": 1093100000000,
+   "buybackEstKrw": 1124500000000,
+   "foreignKrw": -176000000000,
+   "institutionKrw": 248100000000,
+   "individualKrw": -1165200000000,
+   "kospi": 6912.95,
+   "kospiPct": 0.88,
+   "usdKrw": 1387
+  },
+  {
+   "date": "2026-08-24",
+   "otherCorpKrw": 1637500000000,
+   "buybackEstKrw": 1548750000000,
+   "foreignKrw": -3669100000000,
+   "institutionKrw": -1290100000000,
+   "individualKrw": 3321700000000,
+   "kospi": 6696.96,
+   "kospiPct": -3.12,
+   "usdKrw": 1383
+  },
+  {
+   "date": "2026-08-25",
+   "otherCorpKrw": 1592000000000,
+   "buybackEstKrw": 1604700000000,
+   "foreignKrw": -3814000000000,
+   "institutionKrw": 1171100000000,
+   "individualKrw": 1050900000000,
+   "kospi": 6742.74,
+   "kospiPct": 0.68,
+   "usdKrw": 1383.5
+  },
+  {
+   "date": "2026-08-26",
+   "otherCorpKrw": 1599400000000,
+   "buybackEstKrw": 1620200000000,
+   "foreignKrw": -114800000000,
+   "institutionKrw": 761500000000,
+   "individualKrw": -2246100000000,
+   "kospi": 6808.21,
+   "kospiPct": 0.97,
+   "usdKrw": 1386
+  },
+  {
+   "date": "2026-08-27",
+   "otherCorpKrw": 1594800000000,
+   "buybackEstKrw": 1656500000000,
+   "foreignKrw": 133300000000,
+   "institutionKrw": 183500000000,
+   "individualKrw": -1911600000000,
+   "kospi": 6912.37,
+   "kospiPct": 1.53,
+   "usdKrw": 1382
+  },
+  {
+   "date": "2026-08-28",
+   "otherCorpKrw": 1620600000000,
+   "buybackEstKrw": 1588450000000,
+   "foreignKrw": -852500000000,
+   "institutionKrw": -1187600000000,
+   "individualKrw": 419400000000,
+   "kospi": 6788.88,
+   "kospiPct": -1.79,
+   "usdKrw": 1380.5
+  },
+  {
+   "date": "2026-08-31",
+   "otherCorpKrw": 1579000000000,
+   "buybackEstKrw": 1608100000000,
+   "foreignKrw": -643400000000,
+   "institutionKrw": -789100000000,
+   "individualKrw": -146400000000,
+   "kospi": 6820.02,
+   "kospiPct": 0.46,
+   "usdKrw": 1369.5
+  },
+  {
+   "date": "2026-09-01",
+   "otherCorpKrw": 1665600000000,
+   "buybackEstKrw": 1622450000000,
+   "foreignKrw": -496800000000,
+   "institutionKrw": -628600000000,
+   "individualKrw": -540200000000,
+   "kospi": 6835.8,
+   "kospiPct": 0.23,
+   "usdKrw": 1375.5
+  },
+  {
+   "date": "2026-09-02",
+   "otherCorpKrw": 1650500000000,
+   "buybackEstKrw": 1549450000000,
+   "foreignKrw": -1917300000000,
+   "institutionKrw": -2036100000000,
+   "individualKrw": 2302900000000,
+   "kospi": 6562.72,
+   "kospiPct": -3.99,
+   "usdKrw": 1360.3
+  },
+  {
+   "date": "2026-09-03",
+   "otherCorpKrw": -600000000,
+   "buybackEstKrw": 1537400000000,
+   "foreignKrw": 41400000000,
+   "institutionKrw": 914300000000,
+   "individualKrw": -955200000000,
+   "kospi": 6579.48,
+   "kospiPct": 0.26,
+   "usdKrw": 1358
+  },
+  {
+   "date": "2026-09-04",
+   "otherCorpKrw": 1573900000000,
+   "buybackEstKrw": 1581550000000,
+   "foreignKrw": 479600000000,
+   "institutionKrw": 1669400000000,
+   "individualKrw": -3722900000000,
+   "kospi": 6687.21,
+   "kospiPct": 1.64,
+   "usdKrw": 1349.5
+  },
+  {
+   "date": "2026-09-07",
+   "otherCorpKrw": 1635200000000,
+   "buybackEstKrw": 1698950000000,
+   "foreignKrw": 2553200000000,
+   "institutionKrw": 2649100000000,
+   "individualKrw": -6837400000000,
+   "kospi": 6995.39,
+   "kospiPct": 4.61,
+   "usdKrw": 1345.8
+  }
+ ],
+ "crossCheck": [
+  {
+   "claim": "08-31 개인·외국인·기관 모두 순매도, 기타법인만 순매수",
+   "actual": "개인 -0.15조 / 외국인 -0.64조 / 기관 -0.79조 / 기타법인 +1.58조",
+   "verdict": "일치",
+   "source": "KRX 투자자별 매매동향(네이버 중계)"
+  },
+  {
+   "claim": "09-01 개인·외국인·기관 모두 순매도, 기타법인만 순매수",
+   "actual": "개인 -0.54조 / 외국인 -0.50조 / 기관 -0.63조 / 기타법인 +1.67조",
+   "verdict": "일치",
+   "source": "KRX 투자자별 매매동향(네이버 중계)"
+  },
+  {
+   "claim": "09-02 코스피 4% 급락, 기타법인 약 1조 순매수",
+   "actual": "코스피 -3.99% · 개인 +2.30조 / 외국인 -1.92조 / 기관 -2.04조 / 기타법인 +1.65조",
+   "verdict": "부분일치(기타법인은 1조가 아니라 +1.65조)",
+   "source": "네이버 코스피 지수 · KRX 투자자별"
+  },
+  {
+   "claim": "09-03 3주체 모두 순매도, 기타법인 1.6조 순매수",
+   "actual": "개인 -0.96조 / 외국인 +0.04조 / 기관 +0.91조 / 기타법인 -0.00조",
+   "verdict": "불일치",
+   "source": "KRX 투자자별 매매동향(네이버 중계)"
+  },
+  {
+   "claim": "09-02 주가 급락에도 환율 1,370→1,368원으로 하락",
+   "actual": "1375.5 → 1360.3 (-15.2)",
+   "verdict": "방향 일치(수치는 1375.5→1360.3)",
+   "source": "다음금융 매매기준율"
+  },
+  {
+   "claim": "08-31 환율 1,359원",
+   "actual": "1369.5원",
+   "verdict": "불일치(매매기준율 1369.5원 — 영상은 장중/종가 시세를 인용했을 수 있음)",
+   "source": "다음금융 매매기준율"
+  },
+  {
+   "claim": "8월 20일 이후 기타법인 하루 평균 약 1.5조 순매수",
+   "actual": "13거래일 평균 +1.41조",
+   "verdict": "일치",
+   "source": "KRX 투자자별 매매동향(네이버 중계)"
+  },
+  {
+   "claim": "현재 속도 유지 시 삼성전자 10월 6일경 소진",
+   "actual": "KIND 잔여 31,485,968주 ÷ 일 2,000,000주 = 16거래일 → 2026-10-01",
+   "verdict": "대체로 일치",
+   "source": "KIND 신고·신청·체결내역"
+  },
+  {
+   "claim": "현재 속도 유지 시 SK하이닉스 10월 15일경 소진",
+   "actual": "KIND 잔여 15,620,000주 ÷ 일 650,000주 = 25거래일 → 2026-10-16",
+   "verdict": "대체로 일치",
+   "source": "KIND 신고·신청·체결내역"
+  },
+  {
+   "claim": "SK하이닉스 매입 속도가 약속(균등 매입) 대비 약 2배",
+   "actual": "최근 5일 평균 650,000주/일 vs 균등 388,226주/일 = 1.67배",
+   "verdict": "일치(빠름)",
+   "source": "KIND 체결내역 · 거래일 계산"
+  },
+  {
+   "claim": "삼성전자 매입 속도가 약속(균등 매입) 대비 약 2배",
+   "actual": "최근 5일 평균 2,000,000주/일 vs 균등 873,540주/일 = 2.29배",
+   "verdict": "일치(빠름)",
+   "source": "KIND 체결내역 · 거래일 계산"
+  },
+  {
+   "claim": "SK하이닉스 40조(11/19까지) 소각, 삼성전자 15조(11/21까지) 임직원 보상",
+   "actual": "KIND 신고: SK 24,070,000주 2026-08-20~2026-11-19 · 삼성 53,285,968주 2026-08-24~2026-11-21",
+   "verdict": "일치",
+   "source": "KIND 신고내역 · 주요사항보고서"
+  }
+ ],
+ "calendar": {
+  "holidays": [
+   "2026-09-24",
+   "2026-09-25",
+   "2026-10-05",
+   "2026-10-09",
+   "2026-12-25",
+   "2026-12-31"
+  ],
+  "note": "거래일 계산은 주말과 한국거래소 2026년 휴장일을 제외"
+ },
+ "sources": [
+  {
+   "name": "KIND 자사주취득/처분 (신고·신청·체결내역)",
+   "url": "https://kind.krx.co.kr/corpgeneral/treasurystk.do?method=loadInitPage",
+   "what": "예정수량·누적취득수량·누적취득금액·일별 체결·당일 신청·잔여수량"
+  },
+  {
+   "name": "네이버금융 투자자별 매매동향(코스피)",
+   "url": "https://finance.naver.com/sise/investorDealTrendDay.naver?sosok=01",
+   "what": "개인·외국인·기관·기타법인 일별 순매수(억원, KRX 집계)"
+  },
+  {
+   "name": "네이버증권 종목 투자자·시세",
+   "url": "https://m.stock.naver.com/domestic/stock/000660/total",
+   "what": "종가, 외국인·기관·개인 순매수(주), 외국인 보유율"
+  },
+  {
+   "name": "다음금융 매매기준율",
+   "url": "https://finance.daum.net/exchanges/FRX.KRWUSD",
+   "what": "원/달러 매매기준율 일별"
+  },
+  {
+   "name": "네이버증권 코스피",
+   "url": "https://m.stock.naver.com/domestic/index/KOSPI/total",
+   "what": "코스피 종가·등락률"
+  }
+ ],
+ "notes": [
+  "누적 취득금액은 KIND 신고내역의 실제 체결 금액이다. 일별 금액(추정)은 체결수량 × 당일 종가로 계산한 근사치다.",
+  "남은 수량은 KIND 신청내역의 잔여수량과 (예정수량 − 누적취득수량)이 일치하는지 매번 대조한다.",
+  "예상 종료일은 \"최근 속도가 그대로 유지될 때\"의 산술 결과이며, 회사는 속도를 언제든 바꿀 수 있다.",
+  "시장 전체 기타법인 순매수에는 두 회사 자사주 외 다른 법인 매매도 섞여 있어 자사주 체결과 다를 수 있다."
+ ]
+}
