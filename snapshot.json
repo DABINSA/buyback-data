@@ -1,10 +1,11 @@
 {
- "generatedAt": "2026-09-08T12:56:26.346Z",
+ "generatedAt": "2026-09-08T13:04:17.986Z",
  "asOf": "2026-09-08",
  "today": "2026-09-08",
- "kindFetchedAt": "2026-09-08T12:56:23.802Z",
+ "kindFetchedAt": "2026-09-08T13:04:15.974Z",
  "kindSource": "file",
  "kindLiveError": null,
+ "kindUrlMeta": null,
  "companies": {
   "skhynix": {
    "key": "skhynix",
@@ -225,7 +226,11 @@
      "date": "2026-10-14"
     }
    },
-   "nextApplication": null
+   "nextApplication": null,
+   "disposals": {
+    "decl": [],
+    "trades": []
+   }
   },
   "samsung": {
    "key": "samsung",
@@ -422,7 +427,11 @@
      "date": "2026-10-06"
     }
    },
-   "nextApplication": null
+   "nextApplication": null,
+   "disposals": {
+    "decl": [],
+    "trades": []
+   }
   }
  },
  "market": {
@@ -1428,8 +1437,8 @@
     },
     {
      "date": "2026-09-08",
-     "rate": 1341.7,
-     "change": -4.3
+     "rate": 1341.2,
+     "change": -4.8
     }
    ]
   }
@@ -1587,7 +1596,7 @@
    "individualKrw": -3032900000000,
    "kospi": 6954.52,
    "kospiPct": -0.58,
-   "usdKrw": 1341.7
+   "usdKrw": 1341.2
   }
  ],
  "crossCheck": [

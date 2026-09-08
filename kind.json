@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-08T12:56:23.802Z",
+ "fetchedAt": "2026-09-08T13:04:15.974Z",
  "range": {
   "fromDecl": "2026-08-01",
   "fromTrade": "2026-08-20",
@@ -327,5 +327,15 @@
     "remaining": 29485968
    }
   ]
+ },
+ "disposals": {
+  "skhynix": {
+   "decl": [],
+   "trades": []
+  },
+  "samsung": {
+   "decl": [],
+   "trades": []
+  }
  }
 }
