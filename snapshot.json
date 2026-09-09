@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T15:06:06.012Z",
+ "generatedAt": "2026-09-09T16:35:31.988Z",
  "asOf": "2026-09-09",
  "today": "2026-09-10",
  "agenda": {
@@ -144,7 +144,7 @@
    }
   ]
  },
- "kindFetchedAt": "2026-09-09T15:06:04.070Z",
+ "kindFetchedAt": "2026-09-09T16:35:29.398Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -1616,8 +1616,8 @@
     },
     {
      "date": "2026-09-09",
-     "rate": 1338.9,
-     "change": -2.6
+     "rate": 1340.3,
+     "change": -1.2
     }
    ]
   }
@@ -1786,7 +1786,7 @@
    "individualKrw": -2287900000000,
    "kospi": 7051.64,
    "kospiPct": 1.4,
-   "usdKrw": 1338.9
+   "usdKrw": 1340.3
   }
  ],
  "crossCheck": [
