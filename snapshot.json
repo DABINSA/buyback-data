@@ -1,35 +1,35 @@
 {
- "generatedAt": "2026-09-16T16:50:03.382Z",
- "asOf": "2026-09-16",
- "today": "2026-09-17",
+ "generatedAt": "2026-09-21T04:40:03.698Z",
+ "asOf": "2026-09-18",
+ "today": "2026-09-21",
  "investorStats": {
-  "days": 20,
+  "days": 22,
   "from": "2026-08-20",
-  "to": "2026-09-16",
+  "to": "2026-09-18",
   "by": {
    "외국인": {
-    "corr": 0.74,
-    "buyDays": 6,
-    "upWhenBuy": 5,
-    "upPct": 83
+    "corr": 0.73,
+    "buyDays": 7,
+    "upWhenBuy": 6,
+    "upPct": 86
    },
    "기관": {
-    "corr": 0.67,
-    "buyDays": 11,
-    "upWhenBuy": 9,
-    "upPct": 82
+    "corr": 0.69,
+    "buyDays": 13,
+    "upWhenBuy": 10,
+    "upPct": 77
    },
    "개인": {
-    "corr": -0.81,
-    "buyDays": 8,
+    "corr": -0.82,
+    "buyDays": 9,
     "upWhenBuy": 1,
-    "upPct": 13
+    "upPct": 11
    },
    "기타법인": {
-    "corr": -0.19,
-    "buyDays": 19,
-    "upWhenBuy": 11,
-    "upPct": 58
+    "corr": -0.17,
+    "buyDays": 21,
+    "upWhenBuy": 12,
+    "upPct": 57
    }
   }
  },
@@ -40,9 +40,9 @@
     "title": "40조 · 자사주 취득 후 전량 소각",
     "planShares": 24070000,
     "planAmountKrw": 40004340000000,
-    "remainingShares": 11220000,
-    "remainingAmountKrw": 17945562062000,
-    "progressPct": 53.39,
+    "remainingShares": 9920000,
+    "remainingAmountKrw": 15614379800500,
+    "progressPct": 58.79,
     "end": "2026-11-19",
     "projectedEnd": "2026-10-16",
     "disclosure": "2026-08-19 주요사항보고서(자기주식취득결정)"
@@ -52,15 +52,15 @@
     "title": "15조 · 임직원 주식보상(성과급) 재원",
     "planShares": 53285968,
     "planAmountKrw": 15000000000000,
-    "remainingShares": 17485968,
-    "remainingAmountKrw": 5720784882250,
-    "progressPct": 67.18,
+    "remainingShares": 13485968,
+    "remainingAmountKrw": 4692237020500,
+    "progressPct": 74.69,
     "end": "2026-11-21",
     "projectedEnd": "2026-10-01",
     "disclosure": "2026-08-21 주요사항보고서(자기주식취득결정)"
    }
   ],
-  "confirmedTotalRemainingKrw": 23666346944250,
+  "confirmedTotalRemainingKrw": 20306616821000,
   "pipeline": [
    {
     "company": "삼성전자",
@@ -113,69 +113,69 @@
   "calendar": [
    {
     "date": "2026-10-01",
-    "label": "삼성전자 자사주 수량 소진 예상 (현재 속도, 9거래일 후)",
-    "why": "이 날 이후 하루 약 0.51조의 고정 매수가 사라짐",
+    "label": "삼성전자 자사주 수량 소진 예상 (현재 속도, 7거래일 후)",
+    "why": "이 날 이후 하루 약 0.52조의 고정 매수가 사라짐",
     "dynamic": true,
-    "dDay": 14
+    "dDay": 10
    },
    {
     "date": "2026-10-08",
     "label": "삼성전자 3분기 잠정실적 (예상, 통상 10월 초)",
     "why": "실적 확인 후 외국인이 순매수로 돌아오는지가 자사주 종료 이후 주가의 핵심",
-    "dDay": 21
+    "dDay": 17
    },
    {
     "date": "2026-10-15",
     "label": "한국은행 거주자 외화예금 9월분 (매월 중순)",
     "why": "기업·개인 외화예금이 늘기 시작하면 \"환율이 충분히 내렸다\"고 보는 것 — 원화 강세 둔화 신호",
-    "dDay": 28
+    "dDay": 24
    },
    {
     "date": "2026-10-16",
-    "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 18거래일 후)",
-    "why": "이 날 이후 하루 약 1.09조의 고정 매수가 사라짐",
+    "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 16거래일 후)",
+    "why": "이 날 이후 하루 약 1.18조의 고정 매수가 사라짐",
     "dynamic": true,
-    "dDay": 29
+    "dDay": 25
    },
    {
     "date": "2026-10-23",
     "label": "SK하이닉스 3분기 실적 (예상, 통상 10월 넷째 주)",
     "why": "HBM 수요·가이던스가 외국인 수급을 바꿀 수 있음",
-    "dDay": 36
+    "dDay": 32
    },
    {
     "date": "2026-10-30",
     "label": "삼성전자 이사회 — 3분기 배당 약 30조 확정 (예정, 10월 말)",
     "why": "배당 지급 전후 달러 환전(원화 강세)과 외국인 배당 역송금(원화 약세)이 겹침",
-    "dDay": 43
+    "dDay": 39
    },
    {
     "date": "2026-11-19",
     "label": "SK하이닉스 자사주 취득 공시 종료일",
     "why": "이보다 일찍 소진되면 그 뒤로는 공시상 매수 의무 없음",
-    "dDay": 63
+    "dDay": 59
    },
    {
     "date": "2026-11-21",
     "label": "삼성전자 자사주 취득 공시 종료일",
     "why": "",
-    "dDay": 65
+    "dDay": 61
    },
    {
     "date": "2027-01-29",
     "label": "삼성전자 이사회 — 추가 주주환원 60~80조 결정 (예정, 1월)",
     "why": "자사주 매입으로 정해지면 새 기타법인 매수 시작",
-    "dDay": 134
+    "dDay": 130
    },
    {
     "date": "2027-02-13",
     "label": "삼성·SK 성과급 지급 시기 (예상, 1~2월)",
     "why": "세금 원천징수분 달러→원화 환전, 지급된 자사주 중 즉시 매도 가능 물량 출회",
-    "dDay": 149
+    "dDay": 145
    }
   ]
  },
- "kindFetchedAt": "2026-09-16T16:50:01.047Z",
+ "kindFetchedAt": "2026-09-21T04:40:01.940Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -190,16 +190,16 @@
    "planAmountKrw": 40004340000000,
    "start": "2026-08-20",
    "end": "2026-11-19",
-   "asOf": "2026-09-16",
-   "acquiredShares": 12850000,
-   "acquiredAmountKrw": 22058777938000,
-   "progressPct": 53.39,
-   "progressAmountPct": 55.14,
-   "remainingShares": 11220000,
-   "remainingAmountKrw": 17945562062000,
-   "avgPricePaid": 1716636,
-   "lastClose": 1757000,
-   "foreignHoldPct": 50.17,
+   "asOf": "2026-09-18",
+   "acquiredShares": 14150000,
+   "acquiredAmountKrw": 24389960199500,
+   "progressPct": 58.79,
+   "progressAmountPct": 60.97,
+   "remainingShares": 9920000,
+   "remainingAmountKrw": 15614379800500,
+   "avgPricePaid": 1723672,
+   "lastClose": 1849000,
+   "foreignHoldPct": 50.23,
    "daily": [
     {
      "date": "2026-08-20",
@@ -440,35 +440,59 @@
      "foreign": -262655,
      "institution": 217161,
      "individual": -608158
+    },
+    {
+     "date": "2026-09-17",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1766000,
+     "estAmountKrw": 1147900000000,
+     "remainingAfter": 10570000,
+     "foreign": -701796,
+     "institution": -53596,
+     "individual": 92256
+    },
+    {
+     "date": "2026-09-18",
+     "applied": 650000,
+     "executed": 650000,
+     "fillPct": 100,
+     "close": 1849000,
+     "estAmountKrw": 1201850000000,
+     "remainingAfter": 9920000,
+     "foreign": 723470,
+     "institution": 160742,
+     "individual": -1500981
     }
    ],
    "pace": {
     "lastDayShares": 650000,
-    "avg5Shares": 620000,
-    "avgAllShares": 642500,
-    "tradingDaysDone": 20,
-    "lastDayEstKrw": 1142050000000,
-    "avg5EstKrw": 1089340000000,
-    "requiredSharesPerDay": 267142.85714285716,
-    "speedRatio": 2.320855614973262,
+    "avg5Shares": 640000,
+    "avgAllShares": 643181.8181818182,
+    "tradingDaysDone": 22,
+    "lastDayEstKrw": 1201850000000,
+    "avg5EstKrw": 1183360000000,
+    "requiredSharesPerDay": 248000,
+    "speedRatio": 2.5806451612903225,
     "promisedSharesPerDay": 388225.8064516129,
-    "speedVsPromised": 1.597008724553386
+    "speedVsPromised": 1.64852513502285
    },
    "projection": {
     "officialEnd": "2026-11-19",
-    "tradingDaysToOfficialEnd": 42,
+    "tradingDaysToOfficialEnd": 40,
     "totalPlanTradingDays": 62,
     "bySharesAtLastPace": {
-     "tradingDays": 18,
+     "tradingDays": 16,
      "date": "2026-10-16"
     },
     "bySharesAtAvg5": {
-     "tradingDays": 19,
-     "date": "2026-10-19"
+     "tradingDays": 16,
+     "date": "2026-10-16"
     },
     "byAmountAtLastPace": {
-     "tradingDays": 16,
-     "date": "2026-10-14"
+     "tradingDays": 13,
+     "date": "2026-10-13"
     }
    },
    "nextApplication": null,
@@ -487,16 +511,16 @@
    "planAmountKrw": 15000000000000,
    "start": "2026-08-24",
    "end": "2026-11-21",
-   "asOf": "2026-09-16",
-   "acquiredShares": 35800000,
-   "acquiredAmountKrw": 9279215117750,
-   "progressPct": 67.18,
-   "progressAmountPct": 61.86,
-   "remainingShares": 17485968,
-   "remainingAmountKrw": 5720784882250,
-   "avgPricePaid": 259196,
-   "lastClose": 253500,
-   "foreignHoldPct": 46.53,
+   "asOf": "2026-09-18",
+   "acquiredShares": 39800000,
+   "acquiredAmountKrw": 10307762979500,
+   "progressPct": 74.69,
+   "progressAmountPct": 68.72,
+   "remainingShares": 13485968,
+   "remainingAmountKrw": 4692237020500,
+   "avgPricePaid": 258989,
+   "lastClose": 260000,
+   "foreignHoldPct": 46.46,
    "daily": [
     {
      "date": "2026-08-24",
@@ -713,34 +737,58 @@
      "foreign": -1906839,
      "institution": 1660246,
      "individual": -1730267
+    },
+    {
+     "date": "2026-09-17",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 256000,
+     "estAmountKrw": 512000000000,
+     "remainingAfter": 15485968,
+     "foreign": -2170687,
+     "institution": 196838,
+     "individual": -39299
+    },
+    {
+     "date": "2026-09-18",
+     "applied": 2000000,
+     "executed": 2000000,
+     "fillPct": 100,
+     "close": 260000,
+     "estAmountKrw": 520000000000,
+     "remainingAfter": 13485968,
+     "foreign": -1673323,
+     "institution": 2746972,
+     "individual": -2975813
     }
    ],
    "pace": {
     "lastDayShares": 2000000,
     "avg5Shares": 2000000,
-    "avgAllShares": 1988888.888888889,
-    "tradingDaysDone": 18,
-    "lastDayEstKrw": 507000000000,
-    "avg5EstKrw": 507000000000,
-    "requiredSharesPerDay": 406650.4186046512,
-    "speedRatio": 4.918229291052117,
+    "avgAllShares": 1990000,
+    "tradingDaysDone": 20,
+    "lastDayEstKrw": 520000000000,
+    "avg5EstKrw": 520000000000,
+    "requiredSharesPerDay": 328926.0487804878,
+    "speedRatio": 6.080394080721533,
     "promisedSharesPerDay": 873540.4590163934,
     "speedVsPromised": 2.289533334554418
    },
    "projection": {
     "officialEnd": "2026-11-21",
-    "tradingDaysToOfficialEnd": 43,
+    "tradingDaysToOfficialEnd": 41,
     "totalPlanTradingDays": 61,
     "bySharesAtLastPace": {
-     "tradingDays": 9,
+     "tradingDays": 7,
      "date": "2026-10-01"
     },
     "bySharesAtAvg5": {
-     "tradingDays": 9,
+     "tradingDays": 7,
      "date": "2026-10-01"
     },
     "byAmountAtLastPace": {
-     "tradingDays": 12,
+     "tradingDays": 10,
      "date": "2026-10-07"
     }
    },
@@ -755,440 +803,531 @@
   "investors": [
    {
     "date": "2026-08-03",
+    "institution": -19516,
     "individual": 46523,
     "foreign": -28220,
-    "institution": -19516,
     "finInvest": -15601,
     "insurance": 588,
-    "trust": -4713,
+    "trust": -4735,
     "bank": 94,
     "otherFin": 320,
     "pension": -204,
-    "otherCorp": 1213
+    "privateEquity": 22,
+    "otherCorp": 1213,
+    "otherForeign": 165
    },
    {
     "date": "2026-08-04",
+    "institution": -5385,
     "individual": 8187,
     "foreign": -3716,
-    "institution": -5385,
     "finInvest": -1584,
     "insurance": 574,
-    "trust": -4948,
+    "trust": -561,
     "bank": -120,
     "otherFin": 227,
     "pension": 466,
-    "otherCorp": 914
+    "privateEquity": -4387,
+    "otherCorp": 914,
+    "otherForeign": -7
    },
    {
     "date": "2026-08-05",
+    "institution": -2838,
     "individual": -11844,
     "foreign": 14464,
-    "institution": -2838,
     "finInvest": 1357,
     "insurance": -105,
-    "trust": -4093,
+    "trust": 1100,
     "bank": 20,
     "otherFin": 252,
     "pension": -268,
-    "otherCorp": 218
+    "privateEquity": -5194,
+    "otherCorp": 218,
+    "otherForeign": -50
    },
    {
     "date": "2026-08-06",
+    "institution": -1214,
     "individual": 33367,
     "foreign": -32893,
-    "institution": -1214,
     "finInvest": 6787,
     "insurance": 480,
-    "trust": -9049,
+    "trust": -7721,
     "bank": -78,
     "otherFin": 175,
     "pension": 471,
-    "otherCorp": 740
+    "privateEquity": -1329,
+    "otherCorp": 740,
+    "otherForeign": 222
    },
    {
     "date": "2026-08-07",
+    "institution": 5854,
     "individual": 2675,
     "foreign": -8651,
-    "institution": 5854,
     "finInvest": 6401,
     "insurance": 526,
-    "trust": -25,
+    "trust": -382,
     "bank": -36,
     "otherFin": 153,
     "pension": -1166,
-    "otherCorp": 122
+    "privateEquity": 357,
+    "otherCorp": 122,
+    "otherForeign": 45
    },
    {
     "date": "2026-08-10",
+    "institution": 5692,
     "individual": 9003,
     "foreign": -14909,
-    "institution": 5692,
     "finInvest": 6197,
     "insurance": 692,
-    "trust": 124,
+    "trust": -381,
     "bank": -26,
     "otherFin": 154,
     "pension": -1449,
-    "otherCorp": 215
+    "privateEquity": 505,
+    "otherCorp": 215,
+    "otherForeign": 51
    },
    {
     "date": "2026-08-11",
+    "institution": 212,
     "individual": -708,
     "foreign": 535,
-    "institution": 212,
     "finInvest": -2089,
     "insurance": -65,
-    "trust": 2717,
+    "trust": 2280,
     "bank": -76,
     "otherFin": 151,
     "pension": -426,
-    "otherCorp": -40
+    "privateEquity": 437,
+    "otherCorp": -40,
+    "otherForeign": -7
    },
    {
     "date": "2026-08-12",
+    "institution": 5279,
     "individual": -31911,
     "foreign": 28354,
-    "institution": 5279,
     "finInvest": 2535,
     "insurance": 215,
-    "trust": 2642,
+    "trust": 2696,
     "bank": -25,
     "otherFin": 193,
     "pension": -281,
-    "otherCorp": -1722
+    "privateEquity": -54,
+    "otherCorp": -1722,
+    "otherForeign": -73
    },
    {
     "date": "2026-08-13",
+    "institution": 6834,
     "individual": -27410,
     "foreign": 21102,
-    "institution": 6834,
     "finInvest": 20,
     "insurance": -76,
-    "trust": 7385,
+    "trust": 5061,
     "bank": -21,
     "otherFin": 166,
     "pension": -641,
-    "otherCorp": -526
+    "privateEquity": 2324,
+    "otherCorp": -526,
+    "otherForeign": -142
    },
    {
     "date": "2026-08-14",
+    "institution": -10298,
     "individual": -19820,
     "foreign": 30387,
-    "institution": -10298,
     "finInvest": -11634,
     "insurance": -142,
-    "trust": 1011,
+    "trust": 1047,
     "bank": -115,
     "otherFin": 192,
     "pension": 391,
-    "otherCorp": -269
+    "privateEquity": -36,
+    "otherCorp": -269,
+    "otherForeign": -99
    },
    {
     "date": "2026-08-18",
+    "institution": -7951,
     "individual": 7420,
     "foreign": 914,
-    "institution": -7951,
     "finInvest": -5473,
     "insurance": -385,
-    "trust": -1218,
+    "trust": -1252,
     "bank": -99,
     "otherFin": 29,
     "pension": -806,
-    "otherCorp": -383
+    "privateEquity": 34,
+    "otherCorp": -383,
+    "otherForeign": 53
    },
    {
     "date": "2026-08-19",
+    "institution": -13390,
     "individual": 46357,
     "foreign": -34726,
-    "institution": -13390,
     "finInvest": -9753,
     "insurance": 667,
-    "trust": -5105,
+    "trust": -3801,
     "bank": -116,
     "otherFin": 187,
     "pension": 731,
-    "otherCorp": 1759
+    "privateEquity": -1304,
+    "otherCorp": 1759,
+    "otherForeign": 153
    },
    {
     "date": "2026-08-20",
+    "institution": -4895,
     "individual": -22712,
     "foreign": 17068,
-    "institution": -4895,
     "finInvest": -12879,
     "insurance": -160,
-    "trust": 9702,
+    "trust": 4866,
     "bank": 35,
     "otherFin": 223,
     "pension": -1816,
-    "otherCorp": 10539
+    "privateEquity": 4836,
+    "otherCorp": 10539,
+    "otherForeign": -150
    },
    {
     "date": "2026-08-21",
+    "institution": 2481,
     "individual": -11652,
     "foreign": -1760,
-    "institution": 2481,
     "finInvest": 1119,
     "insurance": -109,
-    "trust": 840,
+    "trust": -391,
     "bank": -54,
     "otherFin": 221,
     "pension": 464,
-    "otherCorp": 10931
+    "privateEquity": 1231,
+    "otherCorp": 10931,
+    "otherForeign": -48
    },
    {
     "date": "2026-08-24",
+    "institution": -12901,
     "individual": 33217,
     "foreign": -36691,
-    "institution": -12901,
     "finInvest": -4039,
     "insurance": -184,
-    "trust": -8894,
+    "trust": -2856,
     "bank": 3,
     "otherFin": 169,
     "pension": 44,
-    "otherCorp": 16375
+    "privateEquity": -6038,
+    "otherCorp": 16375,
+    "otherForeign": 117
    },
    {
     "date": "2026-08-25",
+    "institution": 11711,
     "individual": 10509,
     "foreign": -38140,
-    "institution": 11711,
     "finInvest": 10709,
     "insurance": 57,
-    "trust": 625,
+    "trust": -302,
     "bank": -147,
     "otherFin": 232,
     "pension": 234,
-    "otherCorp": 15920
+    "privateEquity": 927,
+    "otherCorp": 15920,
+    "otherForeign": 54
    },
    {
     "date": "2026-08-26",
+    "institution": 7615,
     "individual": -22461,
     "foreign": -1148,
-    "institution": 7615,
     "finInvest": 6857,
     "insurance": 75,
-    "trust": 849,
+    "trust": -115,
     "bank": 1,
     "otherFin": 173,
     "pension": -339,
-    "otherCorp": 15994
+    "privateEquity": 964,
+    "otherCorp": 15994,
+    "otherForeign": -109
    },
    {
     "date": "2026-08-27",
+    "institution": 1835,
     "individual": -19116,
     "foreign": 1333,
-    "institution": 1835,
     "finInvest": 4933,
     "insurance": 181,
-    "trust": -2063,
+    "trust": -583,
     "bank": 24,
     "otherFin": 189,
     "pension": -1429,
-    "otherCorp": 15948
+    "privateEquity": -1480,
+    "otherCorp": 15948,
+    "otherForeign": -103
    },
    {
     "date": "2026-08-28",
+    "institution": -11876,
     "individual": 4194,
     "foreign": -8525,
-    "institution": -11876,
     "finInvest": -2874,
     "insurance": 244,
-    "trust": -9224,
+    "trust": -5594,
     "bank": 5,
     "otherFin": 202,
     "pension": -229,
-    "otherCorp": 16206
+    "privateEquity": -3629,
+    "otherCorp": 16206,
+    "otherForeign": 23
    },
    {
     "date": "2026-08-31",
+    "institution": -7891,
     "individual": -1464,
     "foreign": -6434,
-    "institution": -7891,
     "finInvest": -2435,
     "insurance": 167,
-    "trust": -5495,
+    "trust": -265,
     "bank": 12,
     "otherFin": 217,
     "pension": -357,
-    "otherCorp": 15790
+    "privateEquity": -5231,
+    "otherCorp": 15790,
+    "otherForeign": 5
    },
    {
     "date": "2026-09-01",
+    "institution": -6286,
     "individual": -5402,
     "foreign": -4968,
-    "institution": -6286,
     "finInvest": -6344,
     "insurance": -231,
-    "trust": 238,
+    "trust": 140,
     "bank": 24,
     "otherFin": 174,
     "pension": -147,
-    "otherCorp": 16656
+    "privateEquity": 98,
+    "otherCorp": 16656,
+    "otherForeign": -52
    },
    {
     "date": "2026-09-02",
+    "institution": -20361,
     "individual": 23029,
     "foreign": -19173,
-    "institution": -20361,
     "finInvest": -14238,
     "insurance": 133,
-    "trust": -5161,
+    "trust": -4146,
     "bank": -12,
     "otherFin": 153,
     "pension": -1236,
-    "otherCorp": 16505
+    "privateEquity": -1015,
+    "otherCorp": 16505,
+    "otherForeign": 102
    },
    {
     "date": "2026-09-03",
+    "institution": 9143,
     "individual": -9552,
     "foreign": 414,
-    "institution": 9143,
     "finInvest": 10281,
     "insurance": 202,
-    "trust": -1077,
+    "trust": -1153,
     "bank": 18,
     "otherFin": 163,
     "pension": -444,
-    "otherCorp": -6
+    "privateEquity": 76,
+    "otherCorp": -6,
+    "otherForeign": -38
    },
    {
     "date": "2026-09-04",
+    "institution": 16694,
     "individual": -37229,
     "foreign": 4796,
-    "institution": 16694,
     "finInvest": 11870,
     "insurance": 359,
-    "trust": 3370,
+    "trust": 3219,
     "bank": 27,
     "otherFin": 220,
     "pension": 846,
-    "otherCorp": 15739
+    "privateEquity": 152,
+    "otherCorp": 15739,
+    "otherForeign": -241
    },
    {
     "date": "2026-09-07",
+    "institution": 26491,
     "individual": -68374,
     "foreign": 25532,
-    "institution": 26491,
     "finInvest": 22185,
     "insurance": 156,
-    "trust": 3860,
+    "trust": 3493,
     "bank": 60,
     "otherFin": 133,
     "pension": 96,
-    "otherCorp": 16352
+    "privateEquity": 367,
+    "otherCorp": 16352,
+    "otherForeign": -337
    },
    {
     "date": "2026-09-08",
+    "institution": 6427,
     "individual": -30329,
     "foreign": 6316,
-    "institution": 6427,
     "finInvest": 7643,
     "insurance": -613,
-    "trust": 1406,
+    "trust": -433,
     "bank": 154,
     "otherFin": 206,
     "pension": -2370,
-    "otherCorp": 17586
+    "privateEquity": 1839,
+    "otherCorp": 17586,
+    "otherForeign": -166
    },
    {
     "date": "2026-09-09",
+    "institution": 9422,
     "individual": -22879,
     "foreign": -4348,
-    "institution": 9422,
     "finInvest": 7347,
     "insurance": 78,
-    "trust": 2463,
+    "trust": 1705,
     "bank": -112,
     "otherFin": 58,
     "pension": -411,
-    "otherCorp": 17804
+    "privateEquity": 758,
+    "otherCorp": 17804,
+    "otherForeign": -79
    },
    {
     "date": "2026-09-10",
+    "institution": 5744,
     "individual": 3802,
     "foreign": -26217,
-    "institution": 5744,
     "finInvest": 11628,
     "insurance": 155,
-    "trust": -4803,
+    "trust": -5617,
     "bank": 24,
     "otherFin": 184,
     "pension": -1444,
-    "otherCorp": 16671
+    "privateEquity": 815,
+    "otherCorp": 16671,
+    "otherForeign": 14
    },
    {
     "date": "2026-09-11",
+    "institution": -12184,
     "individual": 18675,
     "foreign": -22984,
-    "institution": -12184,
     "finInvest": -10345,
     "insurance": -17,
-    "trust": -4703,
+    "trust": -3367,
     "bank": 7,
     "otherFin": 216,
     "pension": 2659,
-    "otherCorp": 16493
+    "privateEquity": -1336,
+    "otherCorp": 16493,
+    "otherForeign": 126
    },
    {
     "date": "2026-09-14",
-    "individual": 30351,
-    "foreign": -33363,
     "institution": -11869,
-    "finInvest": -5524,
+    "individual": 30351,
+    "foreign": -33375,
+    "finInvest": -5512,
     "insurance": 259,
-    "trust": -6105,
+    "trust": -3834,
     "bank": 9,
     "otherFin": 195,
     "pension": -703,
-    "otherCorp": 14880
+    "privateEquity": -2284,
+    "otherCorp": 14893,
+    "otherForeign": 131
    },
    {
     "date": "2026-09-15",
+    "institution": -9522,
     "individual": 8596,
-    "foreign": -15458,
-    "institution": -9585,
-    "finInvest": -6605,
+    "foreign": -15521,
+    "finInvest": -6542,
     "insurance": 101,
-    "trust": -3510,
+    "trust": -839,
     "bank": 113,
     "otherFin": 204,
     "pension": 114,
-    "otherCorp": 16447
+    "privateEquity": -2671,
+    "otherCorp": 16447,
+    "otherForeign": 21
    },
    {
     "date": "2026-09-16",
+    "institution": 12371,
     "individual": -12061,
-    "foreign": -16726,
-    "institution": 12251,
-    "finInvest": 7742,
+    "foreign": -16846,
+    "finInvest": 7862,
     "insurance": 171,
-    "trust": 2470,
+    "trust": 1053,
     "bank": -63,
     "otherFin": 197,
     "pension": 1734,
-    "otherCorp": 16536
+    "privateEquity": 1417,
+    "otherCorp": 16536,
+    "otherForeign": -18
+   },
+   {
+    "date": "2026-09-17",
+    "institution": 2497,
+    "individual": 6761,
+    "foreign": -26321,
+    "finInvest": 4072,
+    "insurance": -301,
+    "trust": -620,
+    "bank": 12,
+    "otherFin": 287,
+    "pension": -482,
+    "privateEquity": -472,
+    "otherCorp": 17063,
+    "otherForeign": 41
+   },
+   {
+    "date": "2026-09-18",
+    "institution": 15322,
+    "individual": -36359,
+    "foreign": 4486,
+    "finInvest": 12153,
+    "insurance": -190,
+    "trust": 1598,
+    "bank": 61,
+    "otherFin": 218,
+    "pension": 966,
+    "privateEquity": 514,
+    "otherCorp": 16551,
+    "otherForeign": -123
+   },
+   {
+    "date": "2026-09-21",
+    "institution": 12778,
+    "individual": -26090,
+    "foreign": 437,
+    "finInvest": 8291,
+    "insurance": 89,
+    "trust": -32,
+    "bank": 26,
+    "otherFin": 124,
+    "pension": 3294,
+    "privateEquity": 987,
+    "otherCorp": 12876,
+    "otherForeign": -103
    }
   ],
   "kospi": [
-   {
-    "date": "2026-06-23",
-    "close": 8203.84,
-    "change": -910.71,
-    "changePct": -9.99
-   },
-   {
-    "date": "2026-06-24",
-    "close": 8471.02,
-    "change": 267.18,
-    "changePct": 3.26
-   },
-   {
-    "date": "2026-06-25",
-    "close": 8930.3,
-    "change": 459.28,
-    "changePct": 5.42
-   },
    {
     "date": "2026-06-26",
     "close": 8411.21,
@@ -1530,26 +1669,29 @@
     "close": 6717.97,
     "change": 90.71,
     "changePct": 1.37
+   },
+   {
+    "date": "2026-09-17",
+    "close": 6715.41,
+    "change": -2.56,
+    "changePct": -0.04
+   },
+   {
+    "date": "2026-09-18",
+    "close": 6894.23,
+    "change": 178.82,
+    "changePct": 2.66
+   },
+   {
+    "date": "2026-09-21",
+    "close": 7019.3,
+    "change": 125.07,
+    "changePct": 1.81
    }
   ],
   "fx": {
    "source": "다음금융 매매기준율",
    "rows": [
-    {
-     "date": "2026-06-23",
-     "rate": 1533.5,
-     "change": -5
-    },
-    {
-     "date": "2026-06-24",
-     "rate": 1543.5,
-     "change": 10
-    },
-    {
-     "date": "2026-06-25",
-     "rate": 1545,
-     "change": 1.5
-    },
     {
      "date": "2026-06-26",
      "rate": 1537.5,
@@ -1832,11 +1974,27 @@
     },
     {
      "date": "2026-09-16",
-     "rate": 1368,
-     "change": 4.3
+     "rate": 1377.5,
+     "change": 13.8
+    },
+    {
+     "date": "2026-09-17",
+     "rate": 1381,
+     "change": 3.5
+    },
+    {
+     "date": "2026-09-18",
+     "rate": 1388,
+     "change": 7
+    },
+    {
+     "date": "2026-09-21",
+     "rate": 1384.8,
+     "change": -3.2
     }
    ]
-  }
+  },
+  "errors": null
  },
  "combinedDaily": [
   {
@@ -2046,9 +2204,9 @@
   {
    "date": "2026-09-14",
    "provisional": false,
-   "otherCorpKrw": 1488000000000,
+   "otherCorpKrw": 1489300000000,
    "buybackEstKrw": 1506800000000,
-   "foreignKrw": -3336300000000,
+   "foreignKrw": -3337500000000,
    "institutionKrw": -1186900000000,
    "individualKrw": 3035100000000,
    "kospi": 6684.37,
@@ -2060,8 +2218,8 @@
    "provisional": false,
    "otherCorpKrw": 1644700000000,
    "buybackEstKrw": 1613800000000,
-   "foreignKrw": -1545800000000,
-   "institutionKrw": -958500000000,
+   "foreignKrw": -1552100000000,
+   "institutionKrw": -952200000000,
    "individualKrw": 859600000000,
    "kospi": 6627.26,
    "kospiPct": -0.85,
@@ -2072,12 +2230,48 @@
    "provisional": false,
    "otherCorpKrw": 1653600000000,
    "buybackEstKrw": 1649050000000,
-   "foreignKrw": -1672600000000,
-   "institutionKrw": 1225100000000,
+   "foreignKrw": -1684600000000,
+   "institutionKrw": 1237100000000,
    "individualKrw": -1206100000000,
    "kospi": 6717.97,
    "kospiPct": 1.37,
-   "usdKrw": 1368
+   "usdKrw": 1377.5
+  },
+  {
+   "date": "2026-09-17",
+   "provisional": false,
+   "otherCorpKrw": 1706300000000,
+   "buybackEstKrw": 1659900000000,
+   "foreignKrw": -2632100000000,
+   "institutionKrw": 249700000000,
+   "individualKrw": 676100000000,
+   "kospi": 6715.41,
+   "kospiPct": -0.04,
+   "usdKrw": 1381
+  },
+  {
+   "date": "2026-09-18",
+   "provisional": false,
+   "otherCorpKrw": 1655100000000,
+   "buybackEstKrw": 1721850000000,
+   "foreignKrw": 448600000000,
+   "institutionKrw": 1532200000000,
+   "individualKrw": -3635900000000,
+   "kospi": 6894.23,
+   "kospiPct": 2.66,
+   "usdKrw": 1388
+  },
+  {
+   "date": "2026-09-21",
+   "provisional": true,
+   "otherCorpKrw": 1287600000000,
+   "buybackEstKrw": null,
+   "foreignKrw": 43700000000,
+   "institutionKrw": 1277800000000,
+   "individualKrw": -2609000000000,
+   "kospi": 7019.3,
+   "kospiPct": 1.81,
+   "usdKrw": 1384.8
   }
  ],
  "crossCheck": [
@@ -2085,13 +2279,13 @@
    "claim": "08-31 개인·외국인·기관 모두 순매도, 기타법인만 순매수",
    "actual": "개인 -0.15조 / 외국인 -0.64조 / 기관 -0.79조 / 기타법인 +1.58조",
    "verdict": "일치",
-   "source": "KRX 투자자별 매매동향(네이버 중계)"
+   "source": "KRX 투자자별 매매동향(다음 중계)"
   },
   {
    "claim": "09-01 개인·외국인·기관 모두 순매도, 기타법인만 순매수",
    "actual": "개인 -0.54조 / 외국인 -0.50조 / 기관 -0.63조 / 기타법인 +1.67조",
    "verdict": "일치",
-   "source": "KRX 투자자별 매매동향(네이버 중계)"
+   "source": "KRX 투자자별 매매동향(다음 중계)"
   },
   {
    "claim": "09-02 코스피 4% 급락, 기타법인 약 1조 순매수",
@@ -2103,7 +2297,7 @@
    "claim": "09-03 3주체 모두 순매도, 기타법인 1.6조 순매수",
    "actual": "개인 -0.96조 / 외국인 +0.04조 / 기관 +0.91조 / 기타법인 -0.00조",
    "verdict": "불일치",
-   "source": "KRX 투자자별 매매동향(네이버 중계)"
+   "source": "KRX 투자자별 매매동향(다음 중계)"
   },
   {
    "claim": "09-02 주가 급락에도 환율 1,370→1,368원으로 하락",
@@ -2119,25 +2313,25 @@
   },
   {
    "claim": "8월 20일 이후 기타법인 하루 평균 약 1.5조 순매수",
-   "actual": "20거래일 평균 +1.50조",
+   "actual": "23거래일 평균 +1.50조",
    "verdict": "일치",
-   "source": "KRX 투자자별 매매동향(네이버 중계)"
+   "source": "KRX 투자자별 매매동향(다음 중계)"
   },
   {
    "claim": "현재 속도 유지 시 삼성전자 10월 6일경 소진",
-   "actual": "KIND 잔여 17,485,968주 ÷ 일 2,000,000주 = 9거래일 → 2026-10-01",
+   "actual": "KIND 잔여 13,485,968주 ÷ 일 2,000,000주 = 7거래일 → 2026-10-01",
    "verdict": "대체로 일치",
    "source": "KIND 신고·신청·체결내역"
   },
   {
    "claim": "현재 속도 유지 시 SK하이닉스 10월 15일경 소진",
-   "actual": "KIND 잔여 11,220,000주 ÷ 일 650,000주 = 18거래일 → 2026-10-16",
+   "actual": "KIND 잔여 9,920,000주 ÷ 일 650,000주 = 16거래일 → 2026-10-16",
    "verdict": "대체로 일치",
    "source": "KIND 신고·신청·체결내역"
   },
   {
    "claim": "SK하이닉스 매입 속도가 약속(균등 매입) 대비 약 2배",
-   "actual": "최근 5일 평균 620,000주/일 vs 균등 388,226주/일 = 1.60배",
+   "actual": "최근 5일 평균 640,000주/일 vs 균등 388,226주/일 = 1.65배",
    "verdict": "일치(빠름)",
    "source": "KIND 체결내역 · 거래일 계산"
   },
@@ -2172,8 +2366,8 @@
    "what": "예정수량·누적취득수량·누적취득금액·일별 체결·당일 신청·잔여수량"
   },
   {
-   "name": "네이버금융 투자자별 매매동향(코스피)",
-   "url": "https://finance.naver.com/sise/investorDealTrendDay.naver?sosok=01",
+   "name": "다음금융 투자자별 매매동향(코스피)",
+   "url": "https://finance.daum.net/domestic/investors",
    "what": "개인·외국인·기관·기타법인 일별 순매수(억원, KRX 집계)"
   },
   {

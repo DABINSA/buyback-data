@@ -1,9 +1,9 @@
 {
- "fetchedAt": "2026-09-16T16:50:01.047Z",
+ "fetchedAt": "2026-09-21T04:40:01.940Z",
  "range": {
   "fromDecl": "2026-08-01",
   "fromTrade": "2026-08-20",
-  "to": "2026-09-17"
+  "to": "2026-09-21"
  },
  "decl": {
   "skhynix": {
@@ -11,18 +11,18 @@
    "periodStart": "2026-08-20",
    "periodEnd": "2026-11-19",
    "plannedShares": 24070000,
-   "acquiredShares": 12850000,
-   "progressPct": 53.39,
-   "acquiredAmountKrw": 22058777938000
+   "acquiredShares": 14150000,
+   "progressPct": 58.79,
+   "acquiredAmountKrw": 24389960199500
   },
   "samsung": {
    "declaredAt": "2026-08-21",
    "periodStart": "2026-08-24",
    "periodEnd": "2026-11-21",
    "plannedShares": 53285968,
-   "acquiredShares": 35800000,
-   "progressPct": 67.18,
-   "acquiredAmountKrw": 9279215117750
+   "acquiredShares": 39800000,
+   "progressPct": 74.69,
+   "acquiredAmountKrw": 10307762979500
   }
  },
  "trades": {
@@ -146,6 +146,18 @@
     "applied": 650000,
     "executed": 650000,
     "fillPct": 100
+   },
+   {
+    "date": "2026-09-17",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-18",
+    "applied": 650000,
+    "executed": 650000,
+    "fillPct": 100
    }
   ],
   "samsung": [
@@ -256,6 +268,18 @@
     "applied": 2000000,
     "executed": 2000000,
     "fillPct": 100
+   },
+   {
+    "date": "2026-09-17",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
+   },
+   {
+    "date": "2026-09-18",
+    "applied": 2000000,
+    "executed": 2000000,
+    "fillPct": 100
    }
   ]
  },
@@ -360,6 +384,16 @@
     "date": "2026-09-16",
     "applied": 650000,
     "remaining": 11220000
+   },
+   {
+    "date": "2026-09-17",
+    "applied": 650000,
+    "remaining": 10570000
+   },
+   {
+    "date": "2026-09-18",
+    "applied": 600000,
+    "remaining": 9920000
    }
   ],
   "samsung": [
@@ -457,6 +491,16 @@
     "date": "2026-09-16",
     "applied": 2000000,
     "remaining": 17485968
+   },
+   {
+    "date": "2026-09-17",
+    "applied": 2000000,
+    "remaining": 15485968
+   },
+   {
+    "date": "2026-09-18",
+    "applied": 2000000,
+    "remaining": 13485968
    }
   ]
  },
