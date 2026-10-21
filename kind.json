@@ -1,9 +1,9 @@
 {
- "fetchedAt": "2026-10-20T16:58:08.085Z",
+ "fetchedAt": "2026-10-21T15:56:16.020Z",
  "range": {
   "fromDecl": "2026-08-01",
   "fromTrade": "2026-08-20",
-  "to": "2026-10-21"
+  "to": "2026-10-22"
  },
  "decl": {
   "skhynix": {
@@ -11,9 +11,9 @@
    "periodStart": "2026-08-20",
    "periodEnd": "2026-11-19",
    "plannedShares": 24070000,
-   "acquiredShares": 23250000,
-   "progressPct": 96.59,
-   "acquiredAmountKrw": 39426985186500
+   "acquiredShares": 23693272,
+   "progressPct": 98.43,
+   "acquiredAmountKrw": 40004339063500
   },
   "samsung": {
    "declaredAt": "2026-08-21",
@@ -266,6 +266,12 @@
     "applied": 500000,
     "executed": 500000,
     "fillPct": 100
+   },
+   {
+    "date": "2026-10-21",
+    "applied": 472080,
+    "executed": 443272,
+    "fillPct": 93.9
    }
   ],
   "samsung": [
