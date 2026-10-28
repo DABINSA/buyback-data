@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-27T17:57:03.672Z",
+ "generatedAt": "2026-10-28T17:09:14.814Z",
  "asOf": "2026-10-21",
- "today": "2026-10-28",
+ "today": "2026-10-29",
  "investorStats": {
   "days": 41,
   "from": "2026-08-20",
@@ -38,13 +38,13 @@
    {
     "company": "SK하이닉스",
     "title": "40조 · 자사주 취득 후 전량 소각",
-    "planShares": 24070000,
+    "planShares": 14920000,
     "planAmountKrw": 40004340000000,
-    "remainingShares": 376728,
-    "remainingAmountKrw": 936500,
-    "progressPct": 98.43,
-    "end": "2026-11-19",
-    "projectedEnd": "2026-10-22",
+    "remainingShares": 14920000,
+    "remainingAmountKrw": 40004340000000,
+    "progressPct": 0,
+    "end": "2027-01-28",
+    "projectedEnd": "2026-12-08",
     "disclosure": "2026-08-19 주요사항보고서(자기주식취득결정)"
    },
    {
@@ -60,7 +60,7 @@
     "disclosure": "2026-08-21 주요사항보고서(자기주식취득결정)"
    }
   ],
-  "confirmedTotalRemainingKrw": 1036750,
+  "confirmedTotalRemainingKrw": 40004340100250,
   "pipeline": [
    {
     "company": "삼성전자",
@@ -115,35 +115,42 @@
     "date": "2026-10-30",
     "label": "삼성전자 이사회 — 3분기 배당 약 30조 확정 (예정, 10월 말)",
     "why": "배당 지급 전후 달러 환전(원화 강세)과 외국인 배당 역송금(원화 약세)이 겹침",
-    "dDay": 2
+    "dDay": 1
    },
    {
     "date": "2026-11-19",
     "label": "SK하이닉스 자사주 취득 공시 종료일",
     "why": "이보다 일찍 소진되면 그 뒤로는 공시상 매수 의무 없음",
-    "dDay": 22
+    "dDay": 21
    },
    {
     "date": "2026-11-21",
     "label": "삼성전자 자사주 취득 공시 종료일",
     "why": "",
-    "dDay": 24
+    "dDay": 23
+   },
+   {
+    "date": "2026-12-08",
+    "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 34거래일 후)",
+    "why": "이 날 이후 하루 약 0.72조의 고정 매수가 사라짐",
+    "dynamic": true,
+    "dDay": 40
    },
    {
     "date": "2027-01-29",
     "label": "삼성전자 이사회 — 추가 주주환원 60~80조 결정 (예정, 1월)",
     "why": "자사주 매입으로 정해지면 새 기타법인 매수 시작",
-    "dDay": 93
+    "dDay": 92
    },
    {
     "date": "2027-02-13",
     "label": "삼성·SK 성과급 지급 시기 (예상, 1~2월)",
     "why": "세금 원천징수분 달러→원화 환전, 지급된 자사주 중 즉시 매도 가능 물량 출회",
-    "dDay": 108
+    "dDay": 107
    }
   ]
  },
- "kindFetchedAt": "2026-10-27T17:57:02.209Z",
+ "kindFetchedAt": "2026-10-28T17:09:13.427Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -154,20 +161,20 @@
    "code": "000660",
    "purpose": "자사주 취득 후 전량 소각",
    "disclosure": "2026-08-19 주요사항보고서(자기주식취득결정)",
-   "planShares": 24070000,
+   "planShares": 14920000,
    "planAmountKrw": 40004340000000,
-   "start": "2026-08-20",
-   "end": "2026-11-19",
+   "start": "2026-10-29",
+   "end": "2027-01-28",
    "asOf": "2026-10-21",
-   "acquiredShares": 23693272,
-   "acquiredAmountKrw": 40004339063500,
-   "progressPct": 98.43,
-   "progressAmountPct": 100,
-   "remainingShares": 376728,
-   "remainingAmountKrw": 936500,
-   "avgPricePaid": 1688426,
-   "lastClose": 1374000,
-   "foreignHoldPct": 48.66,
+   "acquiredShares": 0,
+   "acquiredAmountKrw": 0,
+   "progressPct": 0,
+   "progressAmountPct": 0,
+   "remainingShares": 14920000,
+   "remainingAmountKrw": 40004340000000,
+   "avgPricePaid": null,
+   "lastClose": 1508000,
+   "foreignHoldPct": 48.65,
    "daily": [
     {
      "date": "2026-08-20",
@@ -667,31 +674,35 @@
     "avg5Shares": 478654.4,
     "avgAllShares": 577884.6829268293,
     "tradingDaysDone": 41,
-    "lastDayEstKrw": 609055728000,
-    "avg5EstKrw": 657671145600,
-    "requiredSharesPerDay": 17939.428571428572,
-    "speedRatio": 26.681697139580812,
-    "promisedSharesPerDay": 388225.8064516129,
-    "speedVsPromised": 1.232927827170752
+    "lastDayEstKrw": 668454176000,
+    "avg5EstKrw": 721810835200,
+    "requiredSharesPerDay": 216231.884057971,
+    "speedRatio": 2.2136161930294906,
+    "promisedSharesPerDay": 135636.36363636365,
+    "speedVsPromised": 3.528953351206434
    },
    "projection": {
-    "officialEnd": "2026-11-19",
-    "tradingDaysToOfficialEnd": 21,
-    "totalPlanTradingDays": 62,
+    "officialEnd": "2027-01-28",
+    "tradingDaysToOfficialEnd": 69,
+    "totalPlanTradingDays": 110,
     "bySharesAtLastPace": {
-     "tradingDays": 1,
-     "date": "2026-10-22"
+     "tradingDays": 34,
+     "date": "2026-12-08"
     },
     "bySharesAtAvg5": {
-     "tradingDays": 1,
-     "date": "2026-10-22"
+     "tradingDays": 32,
+     "date": "2026-12-04"
     },
     "byAmountAtLastPace": {
-     "tradingDays": 1,
-     "date": "2026-10-22"
+     "tradingDays": 60,
+     "date": "2027-01-15"
     }
    },
-   "nextApplication": null,
+   "nextApplication": {
+    "date": "2026-10-28",
+    "applied": 250000,
+    "remaining": 14920000
+   },
    "disposals": {
     "decl": [],
     "trades": []
@@ -715,8 +726,8 @@
    "remainingShares": -3570337,
    "remainingAmountKrw": 100250,
    "avgPricePaid": 263823,
-   "lastClose": 225000,
-   "foreignHoldPct": 46.11,
+   "lastClose": 245000,
+   "foreignHoldPct": 46.18,
    "daily": [
     {
      "date": "2026-08-24",
@@ -1072,8 +1083,8 @@
     "avg5Shares": 1811261,
     "avgAllShares": 1960562.2413793104,
     "tradingDaysDone": 29,
-    "lastDayEstKrw": 237668625000,
-    "avg5EstKrw": 407533725000,
+    "lastDayEstKrw": 258794725000,
+    "avg5EstKrw": 443758945000,
     "requiredSharesPerDay": -111573.03125,
     "speedRatio": -16.23386027705508,
     "promisedSharesPerDay": 873540.4590163934,
@@ -1959,15 +1970,24 @@
     "privateEquity": 924,
     "otherCorp": 757,
     "otherForeign": 13
+   },
+   {
+    "date": "2026-10-28",
+    "institution": 9146,
+    "individual": -17051,
+    "foreign": 7691,
+    "finInvest": 6641,
+    "insurance": 208,
+    "trust": 1928,
+    "bank": 42,
+    "otherFin": -56,
+    "pension": 814,
+    "privateEquity": -431,
+    "otherCorp": 213,
+    "otherForeign": -90
    }
   ],
   "kospi": [
-   {
-    "date": "2026-07-29",
-    "close": 5663.24,
-    "change": -360.42,
-    "changePct": -5.98
-   },
    {
     "date": "2026-07-30",
     "close": 5593.56,
@@ -2321,16 +2341,17 @@
     "close": 5638.34,
     "change": 168.87,
     "changePct": 3.09
+   },
+   {
+    "date": "2026-10-28",
+    "close": 6012.44,
+    "change": 374.1,
+    "changePct": 6.63
    }
   ],
   "fx": {
    "source": "다음금융 매매기준율",
    "rows": [
-    {
-     "date": "2026-07-29",
-     "rate": 1446,
-     "change": -9.2
-    },
     {
      "date": "2026-07-30",
      "rate": 1426.2,
@@ -2623,8 +2644,13 @@
     },
     {
      "date": "2026-10-27",
-     "rate": 1327.4,
-     "change": 0.4
+     "rate": 1327,
+     "change": 0
+    },
+    {
+     "date": "2026-10-28",
+     "rate": 1343.7,
+     "change": 16.7
     }
    ]
   },
@@ -3169,7 +3195,19 @@
    "individualKrw": -940700000000,
    "kospi": 5638.34,
    "kospiPct": 3.09,
-   "usdKrw": 1327.4
+   "usdKrw": 1327
+  },
+  {
+   "date": "2026-10-28",
+   "provisional": true,
+   "otherCorpKrw": 21300000000,
+   "buybackEstKrw": null,
+   "foreignKrw": 769100000000,
+   "institutionKrw": 914600000000,
+   "individualKrw": -1705100000000,
+   "kospi": 6012.44,
+   "kospiPct": 6.63,
+   "usdKrw": 1343.7
   }
  ],
  "crossCheck": [
@@ -3211,7 +3249,7 @@
   },
   {
    "claim": "8월 20일 이후 기타법인 하루 평균 약 1.5조 순매수",
-   "actual": "45거래일 평균 +1.18조",
+   "actual": "46거래일 평균 +1.15조",
    "verdict": "불일치",
    "source": "KRX 투자자별 매매동향(다음 중계)"
   },
@@ -3223,14 +3261,14 @@
   },
   {
    "claim": "현재 속도 유지 시 SK하이닉스 10월 15일경 소진",
-   "actual": "KIND 잔여 376,728주 ÷ 일 443,272주 = 1거래일 → 2026-10-22",
+   "actual": "KIND 잔여 14,920,000주 ÷ 일 443,272주 = 34거래일 → 2026-12-08",
    "verdict": "차이 있음",
    "source": "KIND 신고·신청·체결내역"
   },
   {
    "claim": "SK하이닉스 매입 속도가 약속(균등 매입) 대비 약 2배",
-   "actual": "최근 5일 평균 478,654주/일 vs 균등 388,226주/일 = 1.23배",
-   "verdict": "불일치",
+   "actual": "최근 5일 평균 478,654주/일 vs 균등 135,636주/일 = 3.53배",
+   "verdict": "일치(빠름)",
    "source": "KIND 체결내역 · 거래일 계산"
   },
   {
@@ -3241,7 +3279,7 @@
   },
   {
    "claim": "SK하이닉스 40조(11/19까지) 소각, 삼성전자 15조(11/21까지) 임직원 보상",
-   "actual": "KIND 신고: SK 24,070,000주 2026-08-20~2026-11-19 · 삼성 53,285,968주 2026-08-24~2026-11-21",
+   "actual": "KIND 신고: SK 14,920,000주 2026-10-29~2027-01-28 · 삼성 53,285,968주 2026-08-24~2026-11-21",
    "verdict": "일치",
    "source": "KIND 신고내역 · 주요사항보고서"
   }
