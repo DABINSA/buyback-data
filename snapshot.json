@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T18:39:49.816Z",
+ "generatedAt": "2026-11-10T19:40:45.108Z",
  "asOf": "2026-11-10",
  "today": "2026-11-11",
  "investorStats": {
@@ -144,7 +144,7 @@
    }
   ]
  },
- "kindFetchedAt": "2026-11-10T18:39:48.178Z",
+ "kindFetchedAt": "2026-11-10T19:40:43.250Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -2882,8 +2882,8 @@
     },
     {
      "date": "2026-11-10",
-     "rate": 1343.5,
-     "change": 1.5
+     "rate": 1343.1,
+     "change": 1.1
     }
    ]
   },
@@ -3548,7 +3548,7 @@
    "individualKrw": -1394700000000,
    "kospi": 5239.13,
    "kospiPct": 4.39,
-   "usdKrw": 1343.5
+   "usdKrw": 1343.1
   }
  ],
  "crossCheck": [
