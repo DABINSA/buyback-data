@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-16T21:57:07.362Z",
- "asOf": "2026-11-16",
+ "generatedAt": "2026-11-17T11:14:58.899Z",
+ "asOf": "2026-11-17",
  "today": "2026-11-17",
  "investorStats": {
-  "days": 59,
+  "days": 60,
   "from": "2026-08-20",
-  "to": "2026-11-16",
+  "to": "2026-11-17",
   "by": {
    "외국인": {
     "corr": 0.71,
@@ -15,21 +15,21 @@
    },
    "기관": {
     "corr": 0.23,
-    "buyDays": 33,
+    "buyDays": 34,
     "upWhenBuy": 21,
-    "upPct": 64
+    "upPct": 62
    },
    "개인": {
     "corr": -0.72,
-    "buyDays": 29,
+    "buyDays": 30,
     "upWhenBuy": 3,
     "upPct": 10
    },
    "기타법인": {
-    "corr": 0.11,
-    "buyDays": 58,
+    "corr": 0.12,
+    "buyDays": 59,
     "upWhenBuy": 27,
-    "upPct": 47
+    "upPct": 46
    }
   }
  },
@@ -40,9 +40,9 @@
     "title": "40조 · 자사주 취득 후 전량 소각",
     "planShares": 14920000,
     "planAmountKrw": 40004340000000,
-    "remainingShares": 11020000,
-    "remainingAmountKrw": 34984510616000,
-    "progressPct": 26.14,
+    "remainingShares": 10670000,
+    "remainingAmountKrw": 34592840760500,
+    "progressPct": 28.49,
     "end": "2027-01-28",
     "projectedEnd": "2027-01-01",
     "disclosure": "2026-08-19 주요사항보고서(자기주식취득결정)"
@@ -60,7 +60,7 @@
     "disclosure": "2026-08-21 주요사항보고서(자기주식취득결정)"
    }
   ],
-  "confirmedTotalRemainingKrw": 34984510716250,
+  "confirmedTotalRemainingKrw": 34592840860750,
   "pipeline": [
    {
     "company": "삼성전자",
@@ -125,7 +125,7 @@
    },
    {
     "date": "2027-01-01",
-    "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 32거래일 후)",
+    "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 31거래일 후)",
     "why": "이 날 이후 하루 약 0.39조의 고정 매수가 사라짐",
     "dynamic": true,
     "dDay": 45
@@ -144,7 +144,7 @@
    }
   ]
  },
- "kindFetchedAt": "2026-11-16T21:57:05.634Z",
+ "kindFetchedAt": "2026-11-17T11:14:57.293Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -159,14 +159,14 @@
    "planAmountKrw": 40004340000000,
    "start": "2026-10-29",
    "end": "2027-01-28",
-   "asOf": "2026-11-16",
-   "acquiredShares": 3900000,
-   "acquiredAmountKrw": 5019829384000,
-   "progressPct": 26.14,
-   "progressAmountPct": 12.55,
-   "remainingShares": 11020000,
-   "remainingAmountKrw": 34984510616000,
-   "avgPricePaid": 1287136,
+   "asOf": "2026-11-17",
+   "acquiredShares": 4250000,
+   "acquiredAmountKrw": 5411499239500,
+   "progressPct": 28.49,
+   "progressAmountPct": 13.53,
+   "remainingShares": 10670000,
+   "remainingAmountKrw": 34592840760500,
+   "avgPricePaid": 1273294,
    "lastClose": 1118000,
    "foreignHoldPct": 47.85,
    "daily": [
@@ -817,34 +817,46 @@
      "foreign": -159701,
      "institution": -694134,
      "individual": 503628
+    },
+    {
+     "date": "2026-11-17",
+     "applied": 350000,
+     "executed": 350000,
+     "fillPct": 100,
+     "close": null,
+     "estAmountKrw": null,
+     "remainingAfter": 10670000,
+     "foreign": null,
+     "institution": null,
+     "individual": null
     }
    ],
    "pace": {
     "lastDayShares": 350000,
     "avg5Shares": 350000,
-    "avgAllShares": 510986.51851851854,
-    "tradingDaysDone": 54,
+    "avgAllShares": 508059.4909090909,
+    "tradingDaysDone": 55,
     "lastDayEstKrw": 391300000000,
     "avg5EstKrw": 391300000000,
-    "requiredSharesPerDay": 216078.431372549,
-    "speedRatio": 1.61978221415608,
+    "requiredSharesPerDay": 213400,
+    "speedRatio": 1.640112464854733,
     "promisedSharesPerDay": 135636.36363636365,
     "speedVsPromised": 2.580428954423592
    },
    "projection": {
     "officialEnd": "2027-01-28",
-    "tradingDaysToOfficialEnd": 51,
+    "tradingDaysToOfficialEnd": 50,
     "totalPlanTradingDays": 110,
     "bySharesAtLastPace": {
-     "tradingDays": 32,
+     "tradingDays": 31,
      "date": "2027-01-01"
     },
     "bySharesAtAvg5": {
-     "tradingDays": 32,
+     "tradingDays": 31,
      "date": "2027-01-01"
     },
     "byAmountAtLastPace": {
-     "tradingDays": 90,
+     "tradingDays": 89,
      "date": "2027-03-24"
     }
    },
@@ -873,7 +885,7 @@
    "remainingAmountKrw": 100250,
    "avgPricePaid": 263823,
    "lastClose": 195000,
-   "foreignHoldPct": 46.01,
+   "foreignHoldPct": 46,
    "daily": [
     {
      "date": "2026-08-24",
@@ -2326,15 +2338,24 @@
     "privateEquity": -2088,
     "otherCorp": 4945,
     "otherForeign": 61
+   },
+   {
+    "date": "2026-11-17",
+    "institution": 5134,
+    "individual": 4310,
+    "foreign": -14190,
+    "finInvest": 7675,
+    "insurance": 174,
+    "trust": -1690,
+    "bank": -38,
+    "otherFin": -306,
+    "pension": -84,
+    "privateEquity": -596,
+    "otherCorp": 4746,
+    "otherForeign": -70
    }
   ],
   "kospi": [
-   {
-    "date": "2026-08-19",
-    "close": 6471.17,
-    "change": -398.66,
-    "changePct": -5.8
-   },
    {
     "date": "2026-08-20",
     "close": 6852.58,
@@ -2688,16 +2709,17 @@
     "close": 5100.5,
     "change": -190.03,
     "changePct": -3.59
+   },
+   {
+    "date": "2026-11-17",
+    "close": 4968.48,
+    "change": -132.02,
+    "changePct": -2.59
    }
   ],
   "fx": {
    "source": "다음금융 매매기준율",
    "rows": [
-    {
-     "date": "2026-08-19",
-     "rate": 1390,
-     "change": -23.5
-    },
     {
      "date": "2026-08-20",
      "rate": 1394.8,
@@ -2992,6 +3014,11 @@
      "date": "2026-11-16",
      "rate": 1336.5,
      "change": -1.5
+    },
+    {
+     "date": "2026-11-17",
+     "rate": 1336.5,
+     "change": 0
     }
    ]
   },
@@ -3705,6 +3732,18 @@
    "kospi": 5100.5,
    "kospiPct": -3.59,
    "usdKrw": 1336.5
+  },
+  {
+   "date": "2026-11-17",
+   "provisional": false,
+   "otherCorpKrw": 474600000000,
+   "buybackEstKrw": 0,
+   "foreignKrw": -1419000000000,
+   "institutionKrw": 513400000000,
+   "individualKrw": 431000000000,
+   "kospi": 4968.48,
+   "kospiPct": -2.59,
+   "usdKrw": 1336.5
   }
  ],
  "crossCheck": [
@@ -3746,7 +3785,7 @@
   },
   {
    "claim": "8월 20일 이후 기타법인 하루 평균 약 1.5조 순매수",
-   "actual": "59거래일 평균 +1.00조",
+   "actual": "60거래일 평균 +0.99조",
    "verdict": "불일치",
    "source": "KRX 투자자별 매매동향(다음 중계)"
   },
@@ -3758,7 +3797,7 @@
   },
   {
    "claim": "현재 속도 유지 시 SK하이닉스 10월 15일경 소진",
-   "actual": "KIND 잔여 11,020,000주 ÷ 일 350,000주 = 32거래일 → 2027-01-01",
+   "actual": "KIND 잔여 10,670,000주 ÷ 일 350,000주 = 31거래일 → 2027-01-01",
    "verdict": "차이 있음",
    "source": "KIND 신고·신청·체결내역"
   },
@@ -3824,5 +3863,7 @@
   "남은 수량은 KIND 신청내역의 잔여수량과 (예정수량 − 누적취득수량)이 일치하는지 매번 대조한다.",
   "예상 종료일은 \"최근 속도가 그대로 유지될 때\"의 산술 결과이며, 회사는 속도를 언제든 바꿀 수 있다.",
   "시장 전체 기타법인 순매수에는 두 회사 자사주 외 다른 법인 매매도 섞여 있어 자사주 체결과 다를 수 있다."
- ]
+ ],
+ "telegramSentAt": "2026-11-17T11:15:00.068Z",
+ "telegramMessageId": 10345
 }
