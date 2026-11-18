@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T11:15:52.333Z",
+ "generatedAt": "2026-11-18T12:21:55.035Z",
  "asOf": "2026-11-18",
  "today": "2026-11-18",
  "investorStats": {
@@ -126,7 +126,7 @@
    {
     "date": "2027-01-01",
     "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 30거래일 후)",
-    "why": "이 날 이후 하루 약 0.39조의 고정 매수가 사라짐",
+    "why": "이 날 이후 하루 약 0.41조의 고정 매수가 사라짐",
     "dynamic": true,
     "dDay": 44
    },
@@ -144,7 +144,7 @@
    }
   ]
  },
- "kindFetchedAt": "2026-11-18T11:15:50.641Z",
+ "kindFetchedAt": "2026-11-18T12:21:53.269Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -167,20 +167,20 @@
    "remainingShares": 10320000,
    "remainingAmountKrw": 34193007641000,
    "avgPricePaid": 1263333,
-   "lastClose": 1100000,
-   "foreignHoldPct": 49.39,
+   "lastClose": 1164000,
+   "foreignHoldPct": 49.38,
    "daily": [
     {
      "date": "2026-08-20",
      "applied": 650000,
      "executed": 650000,
      "fillPct": 100,
-     "close": 1691000,
-     "estAmountKrw": 1099150000000,
+     "close": null,
+     "estAmountKrw": null,
      "remainingAfter": 23420000,
-     "foreign": 312973,
-     "institution": -13214,
-     "individual": -922172
+     "foreign": null,
+     "institution": null,
+     "individual": null
     },
     {
      "date": "2026-08-21",
@@ -835,12 +835,12 @@
      "applied": 350000,
      "executed": 350000,
      "fillPct": 100,
-     "close": null,
-     "estAmountKrw": null,
+     "close": 1164000,
+     "estAmountKrw": 407400000000,
      "remainingAfter": 10320000,
-     "foreign": null,
-     "institution": null,
-     "individual": null
+     "foreign": -42531,
+     "institution": 27949,
+     "individual": -333230
     }
    ],
    "pace": {
@@ -848,8 +848,8 @@
     "avg5Shares": 350000,
     "avgAllShares": 505237,
     "tradingDaysDone": 56,
-    "lastDayEstKrw": 385000000000,
-    "avg5EstKrw": 385000000000,
+    "lastDayEstKrw": 407400000000,
+    "avg5EstKrw": 407400000000,
     "requiredSharesPerDay": 210612.24489795917,
     "speedRatio": 1.6618217054263567,
     "promisedSharesPerDay": 135636.36363636365,
@@ -868,8 +868,8 @@
      "date": "2027-01-01"
     },
     "byAmountAtLastPace": {
-     "tradingDays": 89,
-     "date": "2027-03-25"
+     "tradingDays": 84,
+     "date": "2027-03-18"
     }
    },
    "nextApplication": null,
@@ -896,8 +896,8 @@
    "remainingShares": -3570337,
    "remainingAmountKrw": 100250,
    "avgPricePaid": 263823,
-   "lastClose": 189800,
-   "foreignHoldPct": 45.96,
+   "lastClose": 196400,
+   "foreignHoldPct": 45.95,
    "daily": [
     {
      "date": "2026-08-24",
@@ -1253,8 +1253,8 @@
     "avg5Shares": 1811261,
     "avgAllShares": 1960562.2413793104,
     "tradingDaysDone": 29,
-    "lastDayEstKrw": 200486689000,
-    "avg5EstKrw": 343777337800,
+    "lastDayEstKrw": 207458302000,
+    "avg5EstKrw": 355731660400,
     "requiredSharesPerDay": -111573.03125,
     "speedRatio": -16.23386027705508,
     "promisedSharesPerDay": 873540.4590163934,
@@ -3044,8 +3044,8 @@
     },
     {
      "date": "2026-11-18",
-     "rate": 1332.7,
-     "change": -2.8
+     "rate": 1332.3,
+     "change": -3.2
     }
    ]
   },
@@ -3056,7 +3056,7 @@
    "date": "2026-08-20",
    "provisional": false,
    "otherCorpKrw": 1053900000000,
-   "buybackEstKrw": 1099150000000,
+   "buybackEstKrw": 0,
    "foreignKrw": 1706800000000,
    "institutionKrw": -489500000000,
    "individualKrw": -2271200000000,
@@ -3776,13 +3776,13 @@
    "date": "2026-11-18",
    "provisional": false,
    "otherCorpKrw": 464800000000,
-   "buybackEstKrw": 0,
+   "buybackEstKrw": 407400000000,
    "foreignKrw": -264400000000,
    "institutionKrw": 416500000000,
    "individualKrw": -616900000000,
    "kospi": 5067.44,
    "kospiPct": 1.99,
-   "usdKrw": 1332.7
+   "usdKrw": 1332.3
   }
  ],
  "crossCheck": [
@@ -3903,6 +3903,5 @@
   "예상 종료일은 \"최근 속도가 그대로 유지될 때\"의 산술 결과이며, 회사는 속도를 언제든 바꿀 수 있다.",
   "시장 전체 기타법인 순매수에는 두 회사 자사주 외 다른 법인 매매도 섞여 있어 자사주 체결과 다를 수 있다."
  ],
- "telegramSentAt": "2026-11-18T11:15:53.374Z",
- "telegramMessageId": 10356
+ "telegramSentAt": "2026-11-18T11:15:53.374Z"
 }
