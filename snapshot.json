@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T11:15:56.488Z",
+ "generatedAt": "2026-11-19T12:21:53.163Z",
  "asOf": "2026-11-19",
  "today": "2026-11-19",
  "investorStats": {
@@ -126,7 +126,7 @@
    {
     "date": "2027-01-01",
     "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 29거래일 후)",
-    "why": "이 날 이후 하루 약 0.41조의 고정 매수가 사라짐",
+    "why": "이 날 이후 하루 약 0.42조의 고정 매수가 사라짐",
     "dynamic": true,
     "dDay": 43
    },
@@ -144,7 +144,7 @@
    }
   ]
  },
- "kindFetchedAt": "2026-11-19T11:15:54.495Z",
+ "kindFetchedAt": "2026-11-19T12:21:51.781Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -167,8 +167,8 @@
    "remainingShares": 9970000,
    "remainingAmountKrw": 33791086900000,
    "avgPricePaid": 1255203,
-   "lastClose": 1164000,
-   "foreignHoldPct": 49.41,
+   "lastClose": 1190000,
+   "foreignHoldPct": 49.4,
    "daily": [
     {
      "date": "2026-08-20",
@@ -187,12 +187,12 @@
      "applied": 650000,
      "executed": 650000,
      "fillPct": 100,
-     "close": 1730000,
-     "estAmountKrw": 1124500000000,
+     "close": null,
+     "estAmountKrw": null,
      "remainingAfter": 22770000,
-     "foreign": 6014,
-     "institution": 66258,
-     "individual": -720118
+     "foreign": null,
+     "institution": null,
+     "individual": null
     },
     {
      "date": "2026-08-24",
@@ -847,12 +847,12 @@
      "applied": 350000,
      "executed": 350000,
      "fillPct": 100,
-     "close": null,
-     "estAmountKrw": null,
+     "close": 1190000,
+     "estAmountKrw": 416500000000,
      "remainingAfter": 9970000,
-     "foreign": null,
-     "institution": null,
-     "individual": null
+     "foreign": -49813,
+     "institution": -125618,
+     "individual": -173110
     }
    ],
    "pace": {
@@ -860,8 +860,8 @@
     "avg5Shares": 350000,
     "avgAllShares": 502513.5438596491,
     "tradingDaysDone": 57,
-    "lastDayEstKrw": 407400000000,
-    "avg5EstKrw": 407400000000,
+    "lastDayEstKrw": 416500000000,
+    "avg5EstKrw": 416500000000,
     "requiredSharesPerDay": 207708.33333333334,
     "speedRatio": 1.6850551654964894,
     "promisedSharesPerDay": 135636.36363636365,
@@ -880,8 +880,8 @@
      "date": "2027-01-01"
     },
     "byAmountAtLastPace": {
-     "tradingDays": 83,
-     "date": "2027-03-18"
+     "tradingDays": 82,
+     "date": "2027-03-17"
     }
    },
    "nextApplication": null,
@@ -908,8 +908,8 @@
    "remainingShares": -3570337,
    "remainingAmountKrw": 100250,
    "avgPricePaid": 263823,
-   "lastClose": 196400,
-   "foreignHoldPct": 45.91,
+   "lastClose": 197400,
+   "foreignHoldPct": 45.9,
    "daily": [
     {
      "date": "2026-08-24",
@@ -1265,8 +1265,8 @@
     "avg5Shares": 1811261,
     "avgAllShares": 1960562.2413793104,
     "tradingDaysDone": 29,
-    "lastDayEstKrw": 207458302000,
-    "avg5EstKrw": 355731660400,
+    "lastDayEstKrw": 208514607000,
+    "avg5EstKrw": 357542921400,
     "requiredSharesPerDay": -111573.03125,
     "speedRatio": -16.23386027705508,
     "promisedSharesPerDay": 873540.4590163934,
@@ -3071,8 +3071,8 @@
     },
     {
      "date": "2026-11-19",
-     "rate": 1328.8,
-     "change": -5.2
+     "rate": 1328.1,
+     "change": -5.9
     }
    ]
   },
@@ -3095,7 +3095,7 @@
    "date": "2026-08-21",
    "provisional": false,
    "otherCorpKrw": 1093100000000,
-   "buybackEstKrw": 1124500000000,
+   "buybackEstKrw": 0,
    "foreignKrw": -176000000000,
    "institutionKrw": 248100000000,
    "individualKrw": -1165200000000,
@@ -3815,13 +3815,13 @@
    "date": "2026-11-19",
    "provisional": false,
    "otherCorpKrw": 452600000000,
-   "buybackEstKrw": 0,
+   "buybackEstKrw": 416500000000,
    "foreignKrw": -408600000000,
    "institutionKrw": 12000000000,
    "individualKrw": -56000000000,
    "kospi": 5137.89,
    "kospiPct": 1.39,
-   "usdKrw": 1328.8
+   "usdKrw": 1328.1
   }
  ],
  "crossCheck": [
@@ -3942,6 +3942,5 @@
   "예상 종료일은 \"최근 속도가 그대로 유지될 때\"의 산술 결과이며, 회사는 속도를 언제든 바꿀 수 있다.",
   "시장 전체 기타법인 순매수에는 두 회사 자사주 외 다른 법인 매매도 섞여 있어 자사주 체결과 다를 수 있다."
  ],
- "telegramSentAt": "2026-11-19T11:15:57.612Z",
- "telegramMessageId": 10366
+ "telegramSentAt": "2026-11-19T11:15:57.612Z"
 }
