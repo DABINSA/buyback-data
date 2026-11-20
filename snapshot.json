@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T11:15:20.378Z",
+ "generatedAt": "2026-11-20T12:21:47.596Z",
  "asOf": "2026-11-20",
  "today": "2026-11-20",
  "investorStats": {
@@ -120,7 +120,7 @@
    {
     "date": "2027-01-01",
     "label": "SK하이닉스 자사주 수량 소진 예상 (현재 속도, 28거래일 후)",
-    "why": "이 날 이후 하루 약 0.42조의 고정 매수가 사라짐",
+    "why": "이 날 이후 하루 약 0.39조의 고정 매수가 사라짐",
     "dynamic": true,
     "dDay": 42
    },
@@ -138,7 +138,7 @@
    }
   ]
  },
- "kindFetchedAt": "2026-11-20T11:15:19.056Z",
+ "kindFetchedAt": "2026-11-20T12:21:46.044Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -161,8 +161,8 @@
    "remainingShares": 9620000,
    "remainingAmountKrw": 33403188096000,
    "avgPricePaid": 1245500,
-   "lastClose": 1190000,
-   "foreignHoldPct": 49.41,
+   "lastClose": 1100000,
+   "foreignHoldPct": 49.39,
    "daily": [
     {
      "date": "2026-08-20",
@@ -193,12 +193,12 @@
      "applied": 650000,
      "executed": 650000,
      "fillPct": 100,
-     "close": 1671000,
-     "estAmountKrw": 1086150000000,
+     "close": null,
+     "estAmountKrw": null,
      "remainingAfter": 22120000,
-     "foreign": -913265,
-     "institution": -173328,
-     "individual": 440367
+     "foreign": null,
+     "institution": null,
+     "individual": null
     },
     {
      "date": "2026-08-25",
@@ -853,12 +853,12 @@
      "applied": 350000,
      "executed": 350000,
      "fillPct": 100,
-     "close": null,
-     "estAmountKrw": null,
+     "close": 1100000,
+     "estAmountKrw": 385000000000,
      "remainingAfter": 9620000,
-     "foreign": null,
-     "institution": null,
-     "individual": null
+     "foreign": -167982,
+     "institution": -235664,
+     "individual": 46433
     }
    ],
    "pace": {
@@ -866,8 +866,8 @@
     "avg5Shares": 350000,
     "avgAllShares": 499884,
     "tradingDaysDone": 58,
-    "lastDayEstKrw": 416500000000,
-    "avg5EstKrw": 416500000000,
+    "lastDayEstKrw": 385000000000,
+    "avg5EstKrw": 385000000000,
     "requiredSharesPerDay": 204680.8510638298,
     "speedRatio": 1.70997920997921,
     "promisedSharesPerDay": 135636.36363636365,
@@ -886,8 +886,8 @@
      "date": "2027-01-01"
     },
     "byAmountAtLastPace": {
-     "tradingDays": 81,
-     "date": "2027-03-17"
+     "tradingDays": 87,
+     "date": "2027-03-25"
     }
    },
    "nextApplication": null,
@@ -914,20 +914,20 @@
    "remainingShares": -3570337,
    "remainingAmountKrw": 100250,
    "avgPricePaid": 263823,
-   "lastClose": 197400,
-   "foreignHoldPct": 45.9,
+   "lastClose": 180900,
+   "foreignHoldPct": 45.86,
    "daily": [
     {
      "date": "2026-08-24",
      "applied": 1800000,
      "executed": 1800000,
      "fillPct": 100,
-     "close": 257000,
-     "estAmountKrw": 462600000000,
+     "close": null,
+     "estAmountKrw": null,
      "remainingAfter": 51485968,
-     "foreign": -6882379,
-     "institution": -6269240,
-     "individual": 11125505
+     "foreign": null,
+     "institution": null,
+     "individual": null
     },
     {
      "date": "2026-08-25",
@@ -1271,8 +1271,8 @@
     "avg5Shares": 1811261,
     "avgAllShares": 1960562.2413793104,
     "tradingDaysDone": 29,
-    "lastDayEstKrw": 208514607000,
-    "avg5EstKrw": 357542921400,
+    "lastDayEstKrw": 191085574500,
+    "avg5EstKrw": 327657114900,
     "requiredSharesPerDay": -111573.03125,
     "speedRatio": -16.23386027705508,
     "promisedSharesPerDay": 873540.4590163934,
@@ -3092,8 +3092,8 @@
     },
     {
      "date": "2026-11-20",
-     "rate": 1339.3,
-     "change": 3.8
+     "rate": 1340.7,
+     "change": 5.2
     }
    ]
   },
@@ -3128,7 +3128,7 @@
    "date": "2026-08-24",
    "provisional": false,
    "otherCorpKrw": 1637500000000,
-   "buybackEstKrw": 1548750000000,
+   "buybackEstKrw": 0,
    "foreignKrw": -3669100000000,
    "institutionKrw": -1290100000000,
    "individualKrw": 3321700000000,
@@ -3848,13 +3848,13 @@
    "date": "2026-11-20",
    "provisional": false,
    "otherCorpKrw": 507200000000,
-   "buybackEstKrw": 0,
+   "buybackEstKrw": 385000000000,
    "foreignKrw": -1095600000000,
    "institutionKrw": -933000000000,
    "individualKrw": 1521400000000,
    "kospi": 4869.96,
    "kospiPct": -5.21,
-   "usdKrw": 1339.3
+   "usdKrw": 1340.7
   }
  ],
  "crossCheck": [
@@ -3975,6 +3975,5 @@
   "예상 종료일은 \"최근 속도가 그대로 유지될 때\"의 산술 결과이며, 회사는 속도를 언제든 바꿀 수 있다.",
   "시장 전체 기타법인 순매수에는 두 회사 자사주 외 다른 법인 매매도 섞여 있어 자사주 체결과 다를 수 있다."
  ],
- "telegramSentAt": "2026-11-20T11:15:21.516Z",
- "telegramMessageId": 10382
+ "telegramSentAt": "2026-11-20T11:15:21.516Z"
 }
