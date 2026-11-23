@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T11:15:08.319Z",
+ "generatedAt": "2026-11-23T12:23:01.398Z",
  "asOf": "2026-11-23",
  "today": "2026-11-23",
  "investorStats": {
@@ -132,7 +132,7 @@
    }
   ]
  },
- "kindFetchedAt": "2026-11-23T11:15:06.262Z",
+ "kindFetchedAt": "2026-11-23T12:22:59.683Z",
  "kindSource": "file",
  "kindLiveError": null,
  "kindUrlMeta": null,
@@ -155,8 +155,8 @@
    "remainingShares": 9270000,
    "remainingAmountKrw": 33027479255500,
    "avgPricePaid": 1234843,
-   "lastClose": 1100000,
-   "foreignHoldPct": 49.38,
+   "lastClose": 1101000,
+   "foreignHoldPct": 49.35,
    "daily": [
     {
      "date": "2026-08-20",
@@ -199,12 +199,12 @@
      "applied": 650000,
      "executed": 650000,
      "fillPct": 100,
-     "close": 1678000,
-     "estAmountKrw": 1090700000000,
+     "close": null,
+     "estAmountKrw": null,
      "remainingAfter": 21470000,
-     "foreign": -1234309,
-     "institution": 197025,
-     "individual": 386856
+     "foreign": null,
+     "institution": null,
+     "individual": null
     },
     {
      "date": "2026-08-26",
@@ -859,12 +859,12 @@
      "applied": 350000,
      "executed": 350000,
      "fillPct": 100,
-     "close": null,
-     "estAmountKrw": null,
+     "close": 1101000,
+     "estAmountKrw": 385350000000,
      "remainingAfter": 9270000,
-     "foreign": null,
-     "institution": null,
-     "individual": null
+     "foreign": -168180,
+     "institution": -27323,
+     "individual": -156696
     }
    ],
    "pace": {
@@ -872,8 +872,8 @@
     "avg5Shares": 350000,
     "avgAllShares": 497343.593220339,
     "tradingDaysDone": 59,
-    "lastDayEstKrw": 385000000000,
-    "avg5EstKrw": 385000000000,
+    "lastDayEstKrw": 385350000000,
+    "avg5EstKrw": 385350000000,
     "requiredSharesPerDay": 201521.73913043478,
     "speedRatio": 1.7367853290183388,
     "promisedSharesPerDay": 135636.36363636365,
@@ -920,7 +920,7 @@
    "remainingShares": -3570337,
    "remainingAmountKrw": 100250,
    "avgPricePaid": 263823,
-   "lastClose": 180900,
+   "lastClose": 180600,
    "foreignHoldPct": 45.85,
    "daily": [
     {
@@ -940,12 +940,12 @@
      "applied": 2000000,
      "executed": 2000000,
      "fillPct": 100,
-     "close": 257000,
-     "estAmountKrw": 514000000000,
+     "close": null,
+     "estAmountKrw": null,
      "remainingAfter": 49485968,
-     "foreign": -5003317,
-     "institution": 203484,
-     "individual": 2784825
+     "foreign": null,
+     "institution": null,
+     "individual": null
     },
     {
      "date": "2026-08-26",
@@ -1277,8 +1277,8 @@
     "avg5Shares": 1811261,
     "avgAllShares": 1960562.2413793104,
     "tradingDaysDone": 29,
-    "lastDayEstKrw": 191085574500,
-    "avg5EstKrw": 327657114900,
+    "lastDayEstKrw": 190768683000,
+    "avg5EstKrw": 327113736600,
     "requiredSharesPerDay": -111573.03125,
     "speedRatio": -16.23386027705508,
     "promisedSharesPerDay": 873540.4590163934,
@@ -3113,8 +3113,8 @@
     },
     {
      "date": "2026-11-23",
-     "rate": 1346.7,
-     "change": 1.7
+     "rate": 1347.1,
+     "change": 2.1
     }
    ]
   },
@@ -3161,7 +3161,7 @@
    "date": "2026-08-25",
    "provisional": false,
    "otherCorpKrw": 1592000000000,
-   "buybackEstKrw": 1604700000000,
+   "buybackEstKrw": 0,
    "foreignKrw": -3814000000000,
    "institutionKrw": 1171100000000,
    "individualKrw": 1050900000000,
@@ -3881,13 +3881,13 @@
    "date": "2026-11-23",
    "provisional": false,
    "otherCorpKrw": 433400000000,
-   "buybackEstKrw": 0,
+   "buybackEstKrw": 385350000000,
    "foreignKrw": -256500000000,
    "institutionKrw": 176300000000,
    "individualKrw": -353200000000,
    "kospi": 4708.54,
    "kospiPct": -3.31,
-   "usdKrw": 1346.7
+   "usdKrw": 1347.1
   }
  ],
  "crossCheck": [
@@ -4008,6 +4008,5 @@
   "예상 종료일은 \"최근 속도가 그대로 유지될 때\"의 산술 결과이며, 회사는 속도를 언제든 바꿀 수 있다.",
   "시장 전체 기타법인 순매수에는 두 회사 자사주 외 다른 법인 매매도 섞여 있어 자사주 체결과 다를 수 있다."
  ],
- "telegramSentAt": "2026-11-23T11:15:09.223Z",
- "telegramMessageId": 10417
+ "telegramSentAt": "2026-11-23T11:15:09.223Z"
 }
